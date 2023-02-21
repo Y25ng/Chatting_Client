@@ -1,0 +1,5 @@
+C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\Definitions.Chat_Client.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Source\Chat_Client/UserInfo.h
+C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Inc\Chat_Client\UserInfo.generated.h

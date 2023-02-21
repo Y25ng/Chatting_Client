@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\kyeongnyeong.lee\\Documents\\Unreal Projects\\Chat_Client\\Source\\Chat_Client\\Chat_Client.Build.cs",
+		"C:\\Users\\kyeongnyeong.lee\\Documents\\Unreal Projects\\Chat_Client\\Source\\Chat_Client.Target.cs",
+		"C:\\Users\\kyeongnyeong.lee\\Documents\\Unreal Projects\\Chat_Client\\Source\\Chat_ClientEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,1266 @@
+﻿Log file open, 02/20/23 16:35:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Chat_Client
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.210836
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 5800X 8-Core Processor             , GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.20-07.35.47:523][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.20-07.35.47:523][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.20-07.35.47:523][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Engine.ini]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Engine.ini]
+[2023.02.20-07.35.47:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Engine.ini]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Engine.ini]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.02.20-07.35.47:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Engine.ini]
+[2023.02.20-07.35.47:524][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Engine.ini]
+[2023.02.20-07.35.47:534][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.20-07.35.47:534][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.20-07.35.47:535][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.20-07.35.47:535][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.20-07.35.47:535][  0]LogHAL: Display: Platform has ~ 64 GB [68594847744 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.20-07.35.47:535][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.20-07.35.47:535][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.20-07.35.47:535][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.02.20-07.35.47:536][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Engine.ini]
+[2023.02.20-07.35.47:536][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Config/Windows/Editor.ini]
+[2023.02.20-07.35.47:536][  0]LogInit: Computer: TG-P2302012
+[2023.02.20-07.35.47:536][  0]LogInit: User: kyeongnyeonglee
+[2023.02.20-07.35.47:536][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.02.20-07.35.47:536][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.20-07.35.47:536][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2023.02.20-07.35.47:536][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.20-07.35.47:536][  0]LogMemory: Process Physical Memory: 149.55 MB used, 149.55 MB peak
+[2023.02.20-07.35.47:536][  0]LogMemory: Process Virtual Memory: 129.58 MB used, 542.46 MB peak
+[2023.02.20-07.35.47:536][  0]LogMemory: Physical Memory: 18373.46 MB used,  47043.69 MB free, 65417.14 MB total
+[2023.02.20-07.35.47:536][  0]LogMemory: Virtual Memory: 134165952.00 MB used,  51773.18 MB free, 134217728.00 MB total
+[2023.02.20-07.35.47:542][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.20-07.35.47:584][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.02.20-07.35.47:585][  0]LogInit: Using OS detected language (ko-KR).
+[2023.02.20-07.35.47:585][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.02.20-07.35.47:589][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2023.02.20-07.35.47:673][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.20-07.35.47:697][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.20-07.35.47:708][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.20-07.35.47:708][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.20-07.35.47:852][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.02.20-07.35.47:855][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.20-07.35.47:855][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.20-07.35.47:855][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.20-07.35.47:855][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.20-07.35.47:957][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2023.02.20-07.35.47:957][  0]LogD3D11RHI:       8038/0/32708 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.02.20-07.35.47:959][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.20-07.35.47:959][  0]LogD3D11RHI:       0/0/32708 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.20-07.35.47:959][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.02.20-07.35.47:959][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Ti
+[2023.02.20-07.35.47:959][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.20-07.35.47:959][  0]LogD3D11RHI:     DeviceId    : 2489
+[2023.02.20-07.35.47:959][  0]LogD3D11RHI:     SubSysId    : c9721462
+[2023.02.20-07.35.47:959][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.20-07.35.47:959][  0]LogD3D11RHI:     DedicatedVideoMemory : 8428453888 bytes
+[2023.02.20-07.35.47:959][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.20-07.35.47:959][  0]LogD3D11RHI:     SharedSystemMemory : 34297423872 bytes
+[2023.02.20-07.35.47:959][  0]LogD3D11RHI:     AdapterLuid : 0 48874
+[2023.02.20-07.35.47:966][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.20-07.35.47:966][  0]LogD3D11RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.20-07.35.47:966][  0]LogWindows: EnumDisplayDevices:
+[2023.02.20-07.35.47:966][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2023.02.20-07.35.47:966][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1)
+[2023.02.20-07.35.47:966][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2023.02.20-07.35.47:967][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2023.02.20-07.35.47:967][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI:   Driver Version: 528.24 (internal:31.0.15.2824, unified:528.24)
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI:      Driver Date: 1-15-2023
+[2023.02.20-07.35.47:967][  0]LogRHI: Texture pool is 5626 MB (70% of 8038 MB)
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Ti
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI:     DeviceId    : 2489
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI:     SubSysId    : c9721462
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI:     DedicatedVideoMemory : 8428453888 bytes
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI:     SharedSystemMemory : 34297423872 bytes
+[2023.02.20-07.35.47:967][  0]LogD3D11RHI:     AdapterLuid : 0 48874
+[2023.02.20-07.35.48:023][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.02.20-07.35.48:023][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.20-07.35.48:023][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.20-07.35.48:036][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.02.20-07.35.48:065][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.02.20-07.35.48:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.02.20-07.35.48:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.20-07.35.48:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.20-07.35.48:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.20-07.35.48:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.20-07.35.48:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.20-07.35.48:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.20-07.35.48:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.20-07.35.48:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.20-07.35.48:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.20-07.35.48:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.20-07.35.48:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.20-07.35.48:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.20-07.35.48:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.20-07.35.48:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.20-07.35.48:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.20-07.35.48:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.20-07.35.48:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.02.20-07.35.48:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.02.20-07.35.48:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.02.20-07.35.48:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.20-07.35.48:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.20-07.35.48:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.02.20-07.35.48:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.02.20-07.35.48:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.02.20-07.35.48:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.02.20-07.35.48:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.20-07.35.48:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.20-07.35.48:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.20-07.35.48:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.20-07.35.48:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.20-07.35.48:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.20-07.35.48:468][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.20-07.35.48:475][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.20-07.35.48:509][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.02.20-07.35.48:538][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.20-07.35.48:538][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Intermediate/Shaders/WorkingDirectory/25792/).
+[2023.02.20-07.35.48:538][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kyeongnyeong.lee/AppData/Local/Temp/UnrealShaderWorkingDir/3F1183BD4BADD6ECDFB1A6B4C49C53AA/'.
+[2023.02.20-07.35.48:538][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.20-07.35.48:538][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.20-07.35.48:538][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.20-07.35.49:072][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.20-07.35.49:112][  0]LogDerivedDataCache: Loaded boot cache 0.04s 94MB C:/Users/kyeongnyeong.lee/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.20-07.35.49:112][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kyeongnyeong.lee/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.02.20-07.35.49:112][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.20-07.35.49:112][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.20-07.35.49:112][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.20-07.35.49:112][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.20-07.35.49:126][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.20-07.35.49:126][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.20-07.35.49:126][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.20-07.35.49:138][  0]LogDerivedDataCache: Speed tests for C:/Users/kyeongnyeong.lee/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.02.20-07.35.49:138][  0]LogDerivedDataCache: Display: Performance to C:/Users/kyeongnyeong.lee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=641.08MBs, RandomWriteSpeed=97.50MBs. Assigned SpeedClass 'Local'
+[2023.02.20-07.35.49:138][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kyeongnyeong.lee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.20-07.35.49:138][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.20-07.35.49:138][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.20-07.35.49:170][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.20-07.35.49:171][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.20-07.35.49:189][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2023.02.20-07.35.49:369][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.20-07.35.49:369][  0]LogInit: Active device profile: [000001AF0EEE7A00][000001AF0D0BA840 49] Windows
+[2023.02.20-07.35.49:369][  0]LogInit: Profiles: [000001AF0EEE7A00][000001AF0D0BA840 49] Windows, [000001AF0EE64700][000001AF0D0B6980 49] WindowsNoEditor, [000001AF0EEE4700][000001AF0F4A0AC0 49] WindowsServer, [000001AF0EE67500][000001AF0F4A8C40 49] WindowsClient, [000001AF0EEE7400][000001AF0F4ACDC0 49] IOS, [000001AF0EE64F00][000001AF0F4B8F40 49] iPadAir, [000001AF0EEE4E00][000001AF0F4BD0C0 49] iPadAir2, [000001AF0EC08600][000001AF0F4C5380 49] IPadPro, [000001AF0EC08700][000001AF0F4C13C0 49] iPadAir3, [000001AF0EEE6F00][000001AF100F5540 49] iPadAir4, [000001AF0EC0B800][000001AF0F1476C0 49] iPadMini2, [000001AF0EEE5100][000001AF082E5840 49] iPadMini3, [000001AF0EC09700][000001AF082E99C0 49] iPadMini4, [000001AF0EEE6900][000001AF082EDB40 49] iPadMini5, [000001AF0EBE7E00][000001AF0F46A280 49] iPhone6, [000001AF0EBE7F00][000001AF0F3F82C0 49] iPodTouch6, [000001AF0EE67400][000001AF0F472580 49] iPhone7, [000001AF0EC0B300][000001AF0F46E5C0 49] iPodTouch7, [000001AF0EBE4A00][000001AF0F476740 49] iPhone5S, [000001AF0EC0BB00][000001AF0F47A8C0 49] iPhone6Plus, [000001AF0EBE7000][000001AF0F4A4A00 49] iPhone6S, [000001AF0EC0A900][000001AF0F47EB40 49] iPhone6SPlus, [000001AF0EBE5100][000001AF0F482C80 49] iPhone7Plus, [000001AF0EC0A500][000001AF06508DC0 49] iPhoneSE, [000001AF0EBE6A00][000001AF0651CF40 49] iPhone8, [000001AF0EC08E00][000001AF065210C0 49] iPhone8Plus, [000001AF0EBE5700][000001AF06525240 49] iPhoneX, [000001AF0EC09600][000001AF065293C0 49] iPhoneXS, [000001AF0EBE7D00][000001AF0653B540 49] iPhoneXSMax, [000001AF0EC09900][000001AF0653F6C0 49] iPhoneXR, [000001AF0EBE4800][000001AF06543840 49] iPhone11, [000001AF0EC0AD00][000001AF065479C0 49] iPhone11Pro, [000001AF0EBE4D00][000001AF0654BB40 49] iPhone11ProMax, [000001AF0EC0A800][000001AF0654E140 49] iPhoneSE2, [000001AF0EBE4C00][000001AF065662C0 49] iPhone12Mini, [000001AF0EC0A600][000001AF06576440 49] iPhone12, [000001AF0EBE6500][000001AF0657A5C0 49] iPhone12Pro, [000001AF0EC09000][000001AF06582740 49] iPhone12ProMax, [000001AF0EBE5B00][000001AF087908C0 49] iPadPro105, [000001AF0EC08100][000001AF0F3FCA40 49] iPadPro129, [000001AF0EBE7100][000001AF06518B80 49] iPadPro97, [000001AF0EC0BA00][000001AF082F0CC0 49] iPadPro2_129, [000001AF0EBE6B00][000001AF082FEE00 49] iPad5, [000001AF0EC09200][000001AF08302F40 49] iPad6, [000001AF0EBE7B00][000001AF0830B0C0 49] iPad7, [000001AF0EC0B500][000001AF0FE7F240 49] iPad8, [000001AF0EBE7300][000001AF0657F3C0 49] iPadPro11, [000001AF0EC0AF00][000001AF0FEE7540 49] iPadPro2_11, [000001AF0EBE5500][000001AF065736C0 49] iPadPro3_129, [000001AF0EC0BD00][000001AF0FEEB840 49] iPadPro4_129, [000001AF0EBE6D00][000001AF0FEEF9C0 49] AppleTV, [000001AF0EC08A00][000001AF0FEF3B40 49] AppleTV4K, [000001AF0EBE4700][000001AF0FEF6140 49] TVOS, [000001AF0EC0AC00][000001AF0FEFA2C0 49] Mac, [000001AF0EBE7900][000001AF0FEFE440 49] MacClient, [000001AF0EC09B00][000001AF0FF025C0 49] MacNoEditor, [000001AF0EBE5E00][000001AF0FF06740 49] MacServer, [000001AF0EC0AA00][000001AF0FF0A8C0 49] Linux, [000001AF0EBE6300][000001AF0FF0EA40 49] LinuxAArch64, [000001AF0EC0A700][000001AF08794BC0 49] LinuxNoEditor, [000001AF0EBE6600][000001AF08798D40 49] LinuxAArch64NoEditor, [000001AF0EC0B900][000001AF08306E80 49] LinuxClient, [000001AF0EBE7200][000001AF0879CFC0 49] LinuxAArch64Client, [000001AF0EC0B100][000001AF087A1100 49] LinuxServer, [000001AF0EBE4600][000001AF087A9280 49] LinuxAArch64Server, [000001AF0EC09400][000001AF087AD400 49] Android, [000001AF0F0A2200][000001AF087B1580 49] Android_Low, [000001AF0EE65800][000001AF087B5700 49] Android_Mid, [000001AF0F0A0600][000001AF087B9880 49] Android_High, [000001AF0EE67900][000001AF0F415A00 49] Android_Default, [000001AF0F0A1300][000001AF0F419B80 49] Android_Adreno4xx, [000001AF0EE65C00][000001AF0F41C180 49] Android_Adreno5xx_Low, [000001AF0F0A1000][000001AF0F420300 49] Android_Adreno5xx, [000001AF0EE66000][000001AF0F424480 49] Android_Adreno6xx, [000001AF0F0A1100][000001AF0F428600 49] Android_Adreno6xx_Vulkan, [000001AF0EE66A00][000001AF0F42C780 49] Android_Mali_T6xx, [000001AF0F0A1D00][000001AF0F430900 49] Android_Mali_T7xx, [000001AF0EE65F00][000001AF0F434A80 49] Android_Mali_T8xx, [000001AF0F0A1500][000001AF0F438C00 49] Android_Mali_G71, [000001AF0EE67C00][000001AF0F43CD80 49] Android_Mali_G72, [000001AF0F0A0E00][000001AF0F440F00 49] Android_Mali_G72_Vulkan, [000001AF0EE65900][000001AF087A5040 49] Android_Mali_G76, [000001AF0F0A0800][000001AF0F445180 49] Android_Mali_G76_Vulkan, [000001AF0EE67700][000001AF0F4492C0 49] Android_Mali_G77, [000001AF0F0A0C00][000001AF0F451440 49] Android_Mali_G77_Vulkan, [000001AF0EE64E00][000001AF0F4555C0 49] Android_Mali_G78, [000001AF0F0A1700][000001AF0F459740 49] Android_Mali_G78_Vulkan, [000001AF0EE66B00][000001AF0F45D8C0 49] Android_Mali_G710, [000001AF0EC0B000][000001AF0F461A40 49] Android_Mali_G710_Vulkan, [000001AF0EBE6400][000001AF0F465BC0 49] Android_Vulkan_SM5, [000001AF0EC0A000][000001AF0F2B41C0 49] Android_PowerVR_G6xxx, [000001AF0EBE5D00][000001AF0F2B8340 49] Android_PowerVR_GT7xxx, [000001AF0EC08C00][000001AF0F2BC4C0 49] Android_PowerVR_GE8xxx, [000001AF0EBE6900][000001AF0F2C0640 49] Android_PowerVR_GM9xxx, [000001AF0EC09D00][000001AF0F2C47C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001AF0EBE5300][000001AF0F2C8940 49] Android_TegraK1, [000001AF0EE66700][000001AF0F2CCAC0 49] Android_Unknown_Vulkan, [000001AF0EBE6C00][000001AF0F2D0C40 49] Lumin, [000001AF0EC09800][000001AF0F2D4DC0 49] Lumin_Desktop, [000001AF0F0A0300][000001AF0F2D8F40 49] HoloLens, 
+[2023.02.20-07.35.49:465][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.20-07.35.49:465][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.20-07.35.49:465][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.20-07.35.49:465][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.20-07.35.49:465][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.20-07.35.49:478][  0]LogNetVersion: Chat_Client 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2507288367)
+[2023.02.20-07.35.49:776][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.20-07.35.49:819][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.02.20-07.35.49:824][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.02.20-07.35.49:824][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.02.20-07.35.49:824][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.20-07.35.50:062][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 82CAE86D4436BE3DC9774788DBC117BD | Instance: 1CC74EA64D949EB743749B9B1F8071ED (TG-P2302012-25792).
+[2023.02.20-07.35.50:181][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.20-07.35.50:185][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.20-07.35.50:196][  0]LogPython: Using Python 3.7.7
+[2023.02.20-07.35.50:712][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.02.20-07.35.50:712][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.02.20-07.35.50:715][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.02.20-07.35.50:718][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.02.20-07.35.50:744][  0]LogUProjectInfo: Found projects:
+[2023.02.20-07.35.50:759][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.02.20-07.35.50:948][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.20-07.35.50:960][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.20-07.35.50:980][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.20-07.35.50:980][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.20-07.35.51:081][  0]LogCollectionManager: Loaded 0 collections in 0.001640 seconds
+[2023.02.20-07.35.51:101][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/Collections/' took 0.00s
+[2023.02.20-07.35.51:101][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Content/Developers/kyeongnyeonglee/Collections/' took 0.00s
+[2023.02.20-07.35.51:101][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Content/Collections/' took 0.00s
+[2023.02.20-07.35.51:101][  0]LogOcInput: OculusInput pre-init called
+[2023.02.20-07.35.51:285][  0]LogEngine: Initializing Engine...
+[2023.02.20-07.35.51:287][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.02.20-07.35.51:288][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.20-07.35.51:288][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.02.20-07.35.51:288][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.20-07.35.51:386][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.20-07.35.51:393][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.20-07.35.51:393][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.20-07.35.51:397][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.20-07.35.51:397][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.20-07.35.51:398][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.20-07.35.51:398][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.20-07.35.51:398][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.20-07.35.51:398][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.20-07.35.51:398][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.20-07.35.51:398][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.20-07.35.51:398][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.20-07.35.51:398][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.20-07.35.51:398][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.20-07.35.51:398][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.20-07.35.51:398][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.20-07.35.51:398][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.20-07.35.51:398][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.20-07.35.51:398][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.20-07.35.51:409][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.20-07.35.51:409][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.20-07.35.51:425][  0]LogAudioMixer: Display: Using Audio Device 헤드폰(High Definition Audio Device)
+[2023.02.20-07.35.51:427][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.20-07.35.51:429][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.20-07.35.51:429][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.20-07.35.51:430][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.20-07.35.51:430][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.20-07.35.51:430][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.20-07.35.51:431][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.20-07.35.51:431][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.20-07.35.51:431][  0]LogInit: FAudioDevice initialized.
+[2023.02.20-07.35.51:431][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.20-07.35.51:431][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.20-07.35.51:471][  0]LogDerivedDataCache: Saved boot cache 0.04s 94MB C:/Users/kyeongnyeong.lee/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.20-07.35.51:471][  0]LogInit: Texture streaming: Enabled
+[2023.02.20-07.35.51:483][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.02.20-07.35.51:487][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.20-07.35.51:487][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.02.20-07.35.51:491][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.02.20-07.35.51:533][  0]LogInit: Transaction tracking system initialized
+[2023.02.20-07.35.51:555][  0]BlueprintLog: New page: 에디터 로드
+[2023.02.20-07.35.51:613][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.02.20-07.35.51:637][  0]TimingProfiler: Initialize
+[2023.02.20-07.35.51:637][  0]TimingProfiler: OnSessionChanged
+[2023.02.20-07.35.51:637][  0]LoadingProfiler: Initialize
+[2023.02.20-07.35.51:637][  0]LoadingProfiler: OnSessionChanged
+[2023.02.20-07.35.51:637][  0]NetworkingProfiler: Initialize
+[2023.02.20-07.35.51:637][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.20-07.35.51:637][  0]MemoryProfiler: Initialize
+[2023.02.20-07.35.51:637][  0]MemoryProfiler: OnSessionChanged
+[2023.02.20-07.35.51:786][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.20-07.35.51:786][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.20-07.35.51:951][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Content/' took 0.00s
+[2023.02.20-07.35.52:085][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.20-07.35.52:088][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.02.20-07.35.52:088][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.530
+[2023.02.20-07.35.52:088][  0]Cmd: MAP LOAD FILE="../../../../../../Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.20-07.35.52:089][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.02.20-07.35.52:089][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.20-07.35.52:089][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.14ms.
+[2023.02.20-07.35.52:089][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.000
+[2023.02.20-07.35.52:091][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.532
+[2023.02.20-07.35.52:205][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-07.35.52:209][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-07.35.52:213][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-07.35.52:216][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-07.35.52:229][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0078 seconds. Added 3826 classes and 930 folders.
+[2023.02.20-07.35.52:230][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.20-07.35.52:232][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.20-07.35.52:232][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:232][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.20-07.35.52:232][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:232][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.02.20-07.35.52:232][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.02.20-07.35.52:232][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.20-07.35.52:232][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:232][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.20-07.35.52:232][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:232][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.02.20-07.35.52:232][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.02.20-07.35.52:233][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.20-07.35.52:233][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:233][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.20-07.35.52:233][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:233][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.02.20-07.35.52:233][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.02.20-07.35.52:233][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.20-07.35.52:233][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:233][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.20-07.35.52:234][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:234][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.02.20-07.35.52:234][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.02.20-07.35.52:234][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.20-07.35.52:234][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:234][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.20-07.35.52:234][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:234][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.02.20-07.35.52:234][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.02.20-07.35.52:234][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.20-07.35.52:234][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:235][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.20-07.35.52:235][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:235][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.02.20-07.35.52:235][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.02.20-07.35.52:235][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.20-07.35.52:235][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:235][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.20-07.35.52:235][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:235][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.02.20-07.35.52:235][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.02.20-07.35.52:235][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.20-07.35.52:236][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:236][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.20-07.35.52:236][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:236][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.02.20-07.35.52:236][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.02.20-07.35.52:236][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.20-07.35.52:236][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:236][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.20-07.35.52:236][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:236][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.02.20-07.35.52:236][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.02.20-07.35.52:237][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.20-07.35.52:237][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:237][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.20-07.35.52:237][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:237][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.02.20-07.35.52:237][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.02.20-07.35.52:237][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.20-07.35.52:237][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:237][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.20-07.35.52:237][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:237][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.02.20-07.35.52:237][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.02.20-07.35.52:238][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.20-07.35.52:238][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:238][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.20-07.35.52:238][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:238][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.02.20-07.35.52:238][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.02.20-07.35.52:238][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.20-07.35.52:238][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:238][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.20-07.35.52:238][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:238][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.02.20-07.35.52:238][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.02.20-07.35.52:239][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.20-07.35.52:239][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:239][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.20-07.35.52:239][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:239][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.02.20-07.35.52:239][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.02.20-07.35.52:239][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.20-07.35.52:239][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:239][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.20-07.35.52:239][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:239][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.02.20-07.35.52:239][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.02.20-07.35.52:240][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.20-07.35.52:240][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:240][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.20-07.35.52:240][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:240][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.02.20-07.35.52:240][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.02.20-07.35.52:240][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.20-07.35.52:240][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:240][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.20-07.35.52:240][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:240][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.02.20-07.35.52:240][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.02.20-07.35.52:241][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.20-07.35.52:241][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:241][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.20-07.35.52:241][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:241][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.02.20-07.35.52:241][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.02.20-07.35.52:241][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.20-07.35.52:241][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:241][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.20-07.35.52:241][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:241][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.02.20-07.35.52:241][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.02.20-07.35.52:242][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.20-07.35.52:242][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:242][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.20-07.35.52:242][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:242][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.02.20-07.35.52:242][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.20-07.35.52:242][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.20-07.35.52:242][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:242][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.20-07.35.52:242][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:242][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.02.20-07.35.52:242][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.02.20-07.35.52:243][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.20-07.35.52:243][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:243][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.20-07.35.52:243][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:243][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.02.20-07.35.52:243][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.02.20-07.35.52:243][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.20-07.35.52:243][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:243][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.20-07.35.52:243][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:243][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.02.20-07.35.52:243][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.02.20-07.35.52:244][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.20-07.35.52:244][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:244][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.20-07.35.52:244][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:244][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.02.20-07.35.52:244][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.02.20-07.35.52:244][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.20-07.35.52:244][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:244][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.20-07.35.52:244][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:244][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.02.20-07.35.52:244][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.02.20-07.35.52:245][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.20-07.35.52:245][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-07.35.52:245][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.20-07.35.52:245][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-07.35.52:245][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.02.20-07.35.52:245][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.02.20-07.35.52:308][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.20-07.35.52:309][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.02.20-07.35.52:363][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.20-07.35.52:364][  0]LogSlate: Took 0.001027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.02.20-07.35.52:365][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.20-07.35.52:366][  0]LogSlate: Took 0.001093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.02.20-07.35.52:367][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.20-07.35.52:431][  0]LogRenderer: Reallocating scene render targets to support 1256x572 Format 10 NumSamples 1 (Frame:1).
+[2023.02.20-07.35.52:458][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.20-07.35.52:501][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.20-07.35.52:501][  0]LogLoad: (Engine Initialization) Total time: 5.94 seconds
+[2023.02.20-07.35.52:501][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.20-07.35.52:539][  0]LogAssetRegistry: Asset discovery search completed in 3.3515 seconds
+[2023.02.20-07.35.52:544][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.02.20-07.35.52:545][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.20-07.35.57:404][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.02.20-07.35.57:410][216]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.20-07.35.57:423][216]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Untitled.Untitled
+[2023.02.20-07.35.57:423][216]Cmd: MAP LOAD FILE="../../../../../../Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Content/StarterContent/Maps/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.20-07.35.57:423][216]LightingResults: New page: 라이팅 빌드
+[2023.02.20-07.35.57:424][216]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 6 classes and 0 folders.
+[2023.02.20-07.35.57:424][216]LoadErrors: New page: 맵 로드 중: Untitled.umap
+[2023.02.20-07.35.57:425][216]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-07.35.57:425][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-07.35.57:425][216]MapCheck: New page: 맵 체크
+[2023.02.20-07.35.57:425][216]LightingResults: New page: 라이팅 빌드
+[2023.02.20-07.35.57:427][216]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.20-07.35.57:428][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.02.20-07.35.57:428][216]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.20-07.35.57:446][216]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.20-07.35.57:446][216]LogAIModule: Creating AISystem for world Untitled
+[2023.02.20-07.35.57:450][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.02.20-07.35.57:457][216]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.20-07.35.57:457][216]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.115ms.
+[2023.02.20-07.35.57:457][216]LogFileHelpers: Loading map 'Untitled' took 0.034
+[2023.02.20-07.35.58:542][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.02.20-07.35.58:554][334]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Login_Level.Login_Level
+[2023.02.20-07.35.58:554][334]Cmd: MAP LOAD FILE="../../../../../../Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Content/StarterContent/Maps/Login_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.20-07.35.58:554][334]LightingResults: New page: 라이팅 빌드
+[2023.02.20-07.35.58:554][334]LoadErrors: New page: 맵 로드 중: Login_Level.umap
+[2023.02.20-07.35.58:555][334]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-07.35.58:555][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-07.35.58:555][334]MapCheck: New page: 맵 체크
+[2023.02.20-07.35.58:555][334]LightingResults: New page: 라이팅 빌드
+[2023.02.20-07.35.58:558][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.20-07.35.58:559][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.02.20-07.35.58:559][334]LogAudio: Display: Audio Device (ID: 1) registered with world 'Login_Level'.
+[2023.02.20-07.35.58:574][334]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.20-07.35.58:574][334]LogAIModule: Creating AISystem for world Login_Level
+[2023.02.20-07.35.58:578][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.02.20-07.35.58:583][334]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.20-07.35.58:583][334]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.117ms.
+[2023.02.20-07.35.58:583][334]LogFileHelpers: Loading map 'Login_Level' took 0.029
+[2023.02.20-07.36.10:603][140]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/StarterContent/Blueprints/Login_WidgetBP.Login_WidgetBP
+[2023.02.20-07.36.10:745][140]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.02.20-07.36.11:508][140]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.20-07.36.13:633][383]LogSlate: Window 'Login_WidgetBP' being destroyed
+[2023.02.20-07.36.13:639][383]LogSlate: Window 'Login_WidgetBP' being destroyed
+[2023.02.20-07.36.13:640][383]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-07.36.13:640][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-07.36.13:646][383]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-07.36.13:646][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-07.36.20:654][ 79]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.02.20-07.36.23:568][365]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.20-07.36.29:568][995]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.02.20-07.36.29:571][995]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.02.20-07.36.31:430][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.02.20-07.36.32:282][177]LogSlate: Window '콘텐츠 저장' being destroyed
+[2023.02.20-07.36.32:309][177]LogSavePackage: Moving '../../../../../../Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Saved/BP_Chat_ClientGameModeBase663DED4345ED2C578FBEEEBED12AF0C5.tmp' to '../../../../../../Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Content/StarterContent/Blueprints/BP_Chat_ClientGameModeBase.uasset'
+[2023.02.20-07.36.32:323][177]AssetCheck: New page: 에셋 저장:  BP_Chat_ClientGameModeBase
+[2023.02.20-07.36.32:323][177]LogContentValidation: Display: Blueprint /Game/StarterContent/Blueprints/BP_Chat_ClientGameModeBase.BP_Chat_ClientGameModeBase 유효성 검사 중
+[2023.02.20-07.37.03:238][390]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Chat_ClientGameModeBase.BP_Chat_ClientGameModeBase
+[2023.02.20-07.37.04:898][533]BlueprintLog: New page: BP_Chat_ClientGameModeBase 컴파일
+[2023.02.20-07.37.04:955][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.02.20-07.37.08:767][938]LogSlate: Window 'BP_Chat_ClientGameModeBase' being destroyed
+[2023.02.20-07.37.08:773][938]LogSlate: Window 'BP_Chat_ClientGameModeBase' being destroyed
+[2023.02.20-07.37.08:778][938]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-07.37.08:778][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-07.39.05:287][562]Candidate modules for hot reload:
+[2023.02.20-07.39.05:287][562]  Chat_Client
+[2023.02.20-07.39.05:287][562]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,0716 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-07.39.05:292][562]Warning: Starting HotReload took  0.0s.
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 1:39:10
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog: Parsing headers for Chat_ClientEditor
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Chat_Client.uproject" "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\Chat_ClientEditor\Development\Chat_ClientEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kyeongnyeong.lee\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog: Reflection code generated for Chat_ClientEditor in 3.2364815 seconds
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog: Building Chat_ClientEditor...
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog: Building 6 actions with 16 processes...
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog:   [1/6] Chat_Client.init.gen.cpp
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog:   [2/6] Chat_ClientGameModeBase.cpp
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog:   [3/6] Chat_ClientGameModeBase.gen.cpp
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog:   [4/6] UE4Editor-Chat_Client-0716.lib
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-0716.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-0716.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog:   [5/6] UE4Editor-Chat_Client-0716.dll
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-0716.suppressed.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-0716.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog: Error:   Chat_ClientGameModeBase.cpp.obj : error LNK2019: "public: __cdecl AChat_ClientGameModeBase::AChat_ClientGameModeBase(void)" (??0AChat_ClientGameModeBase@@QEAA@XZ)"public: static void __cdecl AChat_ClientGameModeBase::__DefaultConstructor(class FObjectInitializer const &)" (?__DefaultConstructor@AChat_ClientGameModeBase@@SAXAEBVFObjectInitializer@@@Z) ?Լ????? ?????Ǵ? Ȯ???? ?? ???? ?ܺ? ??ȣ
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog: Error:   Chat_ClientGameModeBase.gen.cpp.obj : error LNK2001: Ȯ???? ?? ???? ?ܺ? ??ȣ "public: __cdecl AChat_ClientGameModeBase::AChat_ClientGameModeBase(void)" (??0AChat_ClientGameModeBase@@QEAA@XZ)
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog: Error:   Chat_ClientGameModeBase.gen.cpp.obj : error LNK2001: Ȯ???? ?? ???? ?ܺ? ??ȣ "private: virtual void __cdecl AChat_ClientGameModeBase::BeginPlay(void)" (?BeginPlay@AChat_ClientGameModeBase@@EEAAXXZ)
+[2023.02.20-07.39.10:302][  8]CompilerResultsLog: Error:   C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Binaries\Win64\UE4Editor-Chat_Client-0716.dll : fatal error LNK1120: 2???? Ȯ???? ?? ???? ?ܺ? ?????Դϴ?.
+[2023.02.20-07.39.10:302][  8]LogMainFrame: MainFrame: Module compiling took 5.024 seconds
+[2023.02.20-07.39.10:306][  8]Warning: HotReload failed, recompile failed
+[2023.02.20-07.39.12:379][ 15]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.20-07.39.12:383][ 15]LogSlate: Took 0.001300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2023.02.20-07.39.12:385][ 15]LogSlate: Took 0.002256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.02.20-07.39.12:386][ 15]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ϰ (U+03f0)'
+[2023.02.20-07.39.12:389][ 15]LogSlate: Took 0.002896 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2023.02.20-07.39.31:336][496]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.39.31:343][496]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.39.31:776][546]Candidate modules for hot reload:
+[2023.02.20-07.39.31:776][546]  Chat_Client
+[2023.02.20-07.39.31:776][546]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,4316 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-07.39.31:781][546]Warning: Starting HotReload took  0.0s.
+[2023.02.20-07.39.32:069][554]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 1:39:32
+[2023.02.20-07.39.32:069][554]CompilerResultsLog: ERROR: A conflicting instance of UnrealBuildTool is already running.
+[2023.02.20-07.39.32:069][554]LogMainFrame: MainFrame: Module compiling took 0.296 seconds
+[2023.02.20-07.39.32:069][554]Warning: HotReload failed, recompile failed
+[2023.02.20-07.39.40:949][966]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.39.40:956][966]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.39.41:826][ 68]Candidate modules for hot reload:
+[2023.02.20-07.39.41:826][ 68]  Chat_Client
+[2023.02.20-07.39.41:826][ 68]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,1122 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-07.39.41:832][ 68]Warning: Starting HotReload took  0.0s.
+[2023.02.20-07.39.42:919][142]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 1:39:42
+[2023.02.20-07.39.42:919][142]CompilerResultsLog: Building Chat_ClientEditor...
+[2023.02.20-07.39.42:919][142]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-07.39.42:919][142]CompilerResultsLog: Building 3 actions with 16 processes...
+[2023.02.20-07.39.42:919][142]CompilerResultsLog:   [1/3] UE4Editor-Chat_Client-1122.lib
+[2023.02.20-07.39.42:919][142]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-1122.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-1122.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-07.39.42:919][142]CompilerResultsLog:   [2/3] UE4Editor-Chat_Client-1122.dll
+[2023.02.20-07.39.42:919][142]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-1122.suppressed.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-1122.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-07.39.42:919][142]CompilerResultsLog: Error:   Chat_ClientGameModeBase.cpp.obj : error LNK2019: "public: __cdecl AChat_ClientGameModeBase::AChat_ClientGameModeBase(void)" (??0AChat_ClientGameModeBase@@QEAA@XZ)"public: static void __cdecl AChat_ClientGameModeBase::__DefaultConstructor(class FObjectInitializer const &)" (?__DefaultConstructor@AChat_ClientGameModeBase@@SAXAEBVFObjectInitializer@@@Z) ?Լ????? ?????Ǵ? Ȯ???? ?? ???? ?ܺ? ??ȣ
+[2023.02.20-07.39.42:919][142]CompilerResultsLog: Error:   Chat_ClientGameModeBase.gen.cpp.obj : error LNK2001: Ȯ???? ?? ???? ?ܺ? ??ȣ "public: __cdecl AChat_ClientGameModeBase::AChat_ClientGameModeBase(void)" (??0AChat_ClientGameModeBase@@QEAA@XZ)
+[2023.02.20-07.39.42:919][142]CompilerResultsLog: Error:   Chat_ClientGameModeBase.gen.cpp.obj : error LNK2001: Ȯ???? ?? ???? ?ܺ? ??ȣ "public: virtual void __cdecl AChat_ClientGameModeBase::BeginPlay(void)" (?BeginPlay@AChat_ClientGameModeBase@@UEAAXXZ)
+[2023.02.20-07.39.42:919][142]CompilerResultsLog: Error:   C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Binaries\Win64\UE4Editor-Chat_Client-1122.dll : fatal error LNK1120: 2???? Ȯ???? ?? ???? ?ܺ? ?????Դϴ?.
+[2023.02.20-07.39.42:919][142]LogMainFrame: MainFrame: Module compiling took 1.097 seconds
+[2023.02.20-07.39.42:919][142]Warning: HotReload failed, recompile failed
+[2023.02.20-07.39.52:274][242]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.39.52:279][242]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.40.37:166][468]Candidate modules for hot reload:
+[2023.02.20-07.40.37:166][468]  Chat_Client
+[2023.02.20-07.40.37:167][468]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,7417 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-07.40.37:173][468]Warning: Starting HotReload took  0.0s.
+[2023.02.20-07.40.41:972][584]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 1:40:41
+[2023.02.20-07.40.41:972][584]CompilerResultsLog: Parsing headers for Chat_ClientEditor
+[2023.02.20-07.40.41:972][584]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Chat_Client.uproject" "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\Chat_ClientEditor\Development\Chat_ClientEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kyeongnyeong.lee\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.02.20-07.40.41:972][584]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.02.20-07.40.41:972][584]CompilerResultsLog: Reflection code generated for Chat_ClientEditor in 3.0141129 seconds
+[2023.02.20-07.40.41:972][584]CompilerResultsLog: Building Chat_ClientEditor...
+[2023.02.20-07.40.41:972][584]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-07.40.41:972][584]CompilerResultsLog: Building 5 actions with 16 processes...
+[2023.02.20-07.40.41:972][584]CompilerResultsLog:   [1/5] Chat_ClientGameModeBase.cpp
+[2023.02.20-07.40.41:972][584]CompilerResultsLog:   [2/5] Chat_ClientGameModeBase.gen.cpp
+[2023.02.20-07.40.41:972][584]CompilerResultsLog:   [3/5] UE4Editor-Chat_Client-7417.lib
+[2023.02.20-07.40.41:972][584]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-7417.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-7417.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-07.40.41:972][584]CompilerResultsLog:   [4/5] UE4Editor-Chat_Client-7417.dll
+[2023.02.20-07.40.41:972][584]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-7417.suppressed.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-7417.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-07.40.41:972][584]CompilerResultsLog: Error:   Chat_ClientGameModeBase.cpp.obj : error LNK2019: "public: __cdecl AChat_ClientGameModeBase::AChat_ClientGameModeBase(void)" (??0AChat_ClientGameModeBase@@QEAA@XZ)"public: static void __cdecl AChat_ClientGameModeBase::__DefaultConstructor(class FObjectInitializer const &)" (?__DefaultConstructor@AChat_ClientGameModeBase@@SAXAEBVFObjectInitializer@@@Z) ?Լ????? ?????Ǵ? Ȯ???? ?? ???? ?ܺ? ??ȣ
+[2023.02.20-07.40.41:972][584]CompilerResultsLog: Error:   Chat_ClientGameModeBase.gen.cpp.obj : error LNK2001: Ȯ???? ?? ???? ?ܺ? ??ȣ "public: __cdecl AChat_ClientGameModeBase::AChat_ClientGameModeBase(void)" (??0AChat_ClientGameModeBase@@QEAA@XZ)
+[2023.02.20-07.40.41:972][584]CompilerResultsLog: Error:   C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Binaries\Win64\UE4Editor-Chat_Client-7417.dll : fatal error LNK1120: 1???? Ȯ???? ?? ???? ?ܺ? ?????Դϴ?.
+[2023.02.20-07.40.41:972][584]LogMainFrame: MainFrame: Module compiling took 4.809 seconds
+[2023.02.20-07.40.41:972][584]Warning: HotReload failed, recompile failed
+[2023.02.20-07.40.50:470][441]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.40.50:473][441]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.41.12:354][602]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.20-07.41.13:358][705]Candidate modules for hot reload:
+[2023.02.20-07.41.13:358][705]  Chat_Client
+[2023.02.20-07.41.13:358][705]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,1278 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-07.41.13:363][705]Warning: Starting HotReload took  0.0s.
+[2023.02.20-07.41.20:251][311]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 1:41:20
+[2023.02.20-07.41.20:251][311]CompilerResultsLog: Parsing headers for Chat_ClientEditor
+[2023.02.20-07.41.20:251][311]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Chat_Client.uproject" "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\Chat_ClientEditor\Development\Chat_ClientEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kyeongnyeong.lee\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.02.20-07.41.20:251][311]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.02.20-07.41.20:251][311]CompilerResultsLog: Reflection code generated for Chat_ClientEditor in 3.0117423 seconds
+[2023.02.20-07.41.20:251][311]CompilerResultsLog: Building Chat_ClientEditor...
+[2023.02.20-07.41.20:251][311]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-07.41.20:251][311]CompilerResultsLog: Building 5 actions with 16 processes...
+[2023.02.20-07.41.20:251][311]CompilerResultsLog:   [1/5] Chat_ClientGameModeBase.cpp
+[2023.02.20-07.41.20:251][311]CompilerResultsLog:   [2/5] Chat_ClientGameModeBase.gen.cpp
+[2023.02.20-07.41.20:251][311]CompilerResultsLog:   [3/5] UE4Editor-Chat_Client-1278.lib
+[2023.02.20-07.41.20:251][311]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-1278.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-1278.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-07.41.20:251][311]CompilerResultsLog:   [4/5] UE4Editor-Chat_Client-1278.dll
+[2023.02.20-07.41.20:251][311]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-1278.suppressed.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-1278.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-07.41.20:251][311]CompilerResultsLog: Error:   Chat_ClientGameModeBase.cpp.obj : error LNK2019: "public: __cdecl AChat_ClientGameModeBase::AChat_ClientGameModeBase(void)" (??0AChat_ClientGameModeBase@@QEAA@XZ)"public: static void __cdecl AChat_ClientGameModeBase::__DefaultConstructor(class FObjectInitializer const &)" (?__DefaultConstructor@AChat_ClientGameModeBase@@SAXAEBVFObjectInitializer@@@Z) ?Լ????? ?????Ǵ? Ȯ???? ?? ???? ?ܺ? ??ȣ
+[2023.02.20-07.41.20:251][311]CompilerResultsLog: Error:   Chat_ClientGameModeBase.gen.cpp.obj : error LNK2001: Ȯ???? ?? ???? ?ܺ? ??ȣ "public: __cdecl AChat_ClientGameModeBase::AChat_ClientGameModeBase(void)" (??0AChat_ClientGameModeBase@@QEAA@XZ)
+[2023.02.20-07.41.20:251][311]CompilerResultsLog: Error:   C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Binaries\Win64\UE4Editor-Chat_Client-1278.dll : fatal error LNK1120: 1???? Ȯ???? ?? ???? ?ܺ? ?????Դϴ?.
+[2023.02.20-07.41.20:251][311]LogMainFrame: MainFrame: Module compiling took 6.896 seconds
+[2023.02.20-07.41.20:252][311]Warning: HotReload failed, recompile failed
+[2023.02.20-07.41.23:993][706]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.41.23:997][706]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.43.00:234][455]Candidate modules for hot reload:
+[2023.02.20-07.43.00:234][455]  Chat_Client
+[2023.02.20-07.43.00:234][455]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,5713 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-07.43.00:240][455]Warning: Starting HotReload took  0.0s.
+[2023.02.20-07.43.06:834][608]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 1:43:06
+[2023.02.20-07.43.06:834][608]CompilerResultsLog: Parsing headers for Chat_ClientEditor
+[2023.02.20-07.43.06:834][608]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Chat_Client.uproject" "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\Chat_ClientEditor\Development\Chat_ClientEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kyeongnyeong.lee\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.02.20-07.43.06:834][608]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.02.20-07.43.06:834][608]CompilerResultsLog: Reflection code generated for Chat_ClientEditor in 2.9370964 seconds
+[2023.02.20-07.43.06:834][608]CompilerResultsLog: Building Chat_ClientEditor...
+[2023.02.20-07.43.06:834][608]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-07.43.06:834][608]CompilerResultsLog: Building 6 actions with 16 processes...
+[2023.02.20-07.43.06:834][608]CompilerResultsLog:   [1/6] Chat_Client.init.gen.cpp
+[2023.02.20-07.43.06:834][608]CompilerResultsLog:   [2/6] Chat_ClientGameModeBase.cpp
+[2023.02.20-07.43.06:834][608]CompilerResultsLog:   [3/6] Chat_ClientGameModeBase.gen.cpp
+[2023.02.20-07.43.06:834][608]CompilerResultsLog:   [4/6] UE4Editor-Chat_Client-5713.lib
+[2023.02.20-07.43.06:834][608]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-5713.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-5713.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-07.43.06:834][608]CompilerResultsLog:   [5/6] UE4Editor-Chat_Client-5713.dll
+[2023.02.20-07.43.06:834][608]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-5713.suppressed.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-5713.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-07.43.06:834][608]CompilerResultsLog:   [6/6] Chat_ClientEditor.target
+[2023.02.20-07.43.06:834][608]CompilerResultsLog: Total time in Parallel executor: 2.79 seconds
+[2023.02.20-07.43.06:834][608]CompilerResultsLog: Total execution time: 6.34 seconds
+[2023.02.20-07.43.06:834][608]LogMainFrame: MainFrame: Module compiling took 6.602 seconds
+[2023.02.20-07.43.06:842][608]LogClass: Could not find existing class Chat_ClientGameModeBase in package /Script/Chat_Client for HotReload, assuming new class
+[2023.02.20-07.43.06:848][608]LogHotReload: Re-instancing Chat_ClientGameModeBase after hot-reload.
+[2023.02.20-07.43.06:857][608]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Chat_Client' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2023.02.20-07.43.06:860][608]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.02.20-07.43.06:910][608]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3826 classes and 930 folders.
+[2023.02.20-07.43.06:915][608]Display: HotReload took  6.7s.
+[2023.02.20-07.46.33:103][359]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Chat_ClientGameModeBase.BP_Chat_ClientGameModeBase
+[2023.02.20-07.46.35:884][636]LogSlate: Window 'BP_Chat_ClientGameModeBase' being destroyed
+[2023.02.20-07.46.35:896][636]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-07.46.35:896][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-07.48.01:890][ 67]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/StarterContent/Blueprints/Room_WidgetBP.Room_WidgetBP
+[2023.02.20-07.48.03:879][260]LogSlate: Window 'Room_WidgetBP' being destroyed
+[2023.02.20-07.48.03:885][260]LogSlate: Window 'Room_WidgetBP' being destroyed
+[2023.02.20-07.48.03:887][260]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-07.48.03:887][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-07.48.03:896][260]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-07.48.03:896][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-07.48.05:455][423]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/StarterContent/Blueprints/Lobby_WidgetBP.Lobby_WidgetBP
+[2023.02.20-07.48.07:887][669]LogSlate: Window 'Lobby_WidgetBP' being destroyed
+[2023.02.20-07.48.07:893][669]LogSlate: Window 'Lobby_WidgetBP' being destroyed
+[2023.02.20-07.48.07:895][669]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-07.48.07:895][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-07.48.07:904][669]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-07.48.07:904][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-07.51.05:639][494]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/StarterContent/Blueprints/Login_WidgetBP.Login_WidgetBP
+[2023.02.20-07.51.07:352][655]LogSlate: Window 'Login_WidgetBP' being destroyed
+[2023.02.20-07.51.07:356][655]LogSlate: Window 'Login_WidgetBP' being destroyed
+[2023.02.20-07.51.07:358][655]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-07.51.07:358][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-07.51.07:364][655]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-07.51.07:364][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-07.53.33:747][ 29]Candidate modules for hot reload:
+[2023.02.20-07.53.33:747][ 29]  Chat_Client
+[2023.02.20-07.53.33:747][ 29]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,3971 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-07.53.33:753][ 29]Warning: Starting HotReload took  0.0s.
+[2023.02.20-07.53.40:631][763]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 1:53:40
+[2023.02.20-07.53.40:631][763]CompilerResultsLog: Parsing headers for Chat_ClientEditor
+[2023.02.20-07.53.40:631][763]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Chat_Client.uproject" "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\Chat_ClientEditor\Development\Chat_ClientEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kyeongnyeong.lee\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.02.20-07.53.40:631][763]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.02.20-07.53.40:631][763]CompilerResultsLog: Reflection code generated for Chat_ClientEditor in 3.0843208 seconds
+[2023.02.20-07.53.40:631][763]CompilerResultsLog: Building Chat_ClientEditor...
+[2023.02.20-07.53.40:631][763]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-07.53.40:631][763]CompilerResultsLog: Building 7 actions with 16 processes...
+[2023.02.20-07.53.40:631][763]CompilerResultsLog:   [1/7] UMG_PlayerController.cpp
+[2023.02.20-07.53.40:631][763]CompilerResultsLog:    C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Source\Chat_Client\UMG_PlayerController.cpp(8) : error C4458: 'LogIn_Widget' ?????? Ŭ???? ?????? ?????ϴ?.
+[2023.02.20-07.53.40:631][763]CompilerResultsLog:   C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Source\Chat_Client\UMG_PlayerController.h(29): note: 'AUMG_PlayerController::LogIn_Widget' ?????? ?????Ͻʽÿ?.
+[2023.02.20-07.53.40:631][763]CompilerResultsLog:   [2/7] Chat_ClientGameModeBase.cpp
+[2023.02.20-07.53.40:631][763]CompilerResultsLog:   [3/7] UMG_PlayerController.gen.cpp
+[2023.02.20-07.53.40:631][763]CompilerResultsLog:   [4/7] Chat_ClientGameModeBase.gen.cpp
+[2023.02.20-07.53.40:631][763]LogMainFrame: MainFrame: Module compiling took 6.887 seconds
+[2023.02.20-07.53.40:631][763]Warning: HotReload failed, recompile failed
+[2023.02.20-07.53.59:713][392]Candidate modules for hot reload:
+[2023.02.20-07.53.59:713][392]  Chat_Client
+[2023.02.20-07.53.59:713][392]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,2631 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-07.53.59:718][392]Warning: Starting HotReload took  0.0s.
+[2023.02.20-07.54.02:452][540]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 1:54:02
+[2023.02.20-07.54.02:452][540]CompilerResultsLog: Building Chat_ClientEditor...
+[2023.02.20-07.54.02:452][540]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-07.54.02:452][540]CompilerResultsLog: Building 4 actions with 16 processes...
+[2023.02.20-07.54.02:452][540]CompilerResultsLog:   [1/4] UMG_PlayerController.cpp
+[2023.02.20-07.54.02:452][540]CompilerResultsLog:    C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Source\Chat_Client\UMG_PlayerController.cpp(8) : error C4458: 'LogIn_Widget' ?????? Ŭ???? ?????? ?????ϴ?.
+[2023.02.20-07.54.02:452][540]CompilerResultsLog:   C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Source\Chat_Client\UMG_PlayerController.h(29): note: 'AUMG_PlayerController::LogIn_Widget' ?????? ?????Ͻʽÿ?.
+[2023.02.20-07.54.02:452][540]LogMainFrame: MainFrame: Module compiling took 2.742 seconds
+[2023.02.20-07.54.02:452][540]Warning: HotReload failed, recompile failed
+[2023.02.20-07.54.42:420][731]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.54.42:423][731]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.54.51:581][379]LogContentBrowser: Attempting asset rename: Login_WidgetBP -> Login_WidgetBP
+[2023.02.20-07.54.58:353][521]Candidate modules for hot reload:
+[2023.02.20-07.54.58:353][521]  Chat_Client
+[2023.02.20-07.54.58:353][521]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,8988 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-07.54.58:359][521]Warning: Starting HotReload took  0.2s.
+[2023.02.20-07.55.01:407][853]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 1:55:01
+[2023.02.20-07.55.01:407][853]CompilerResultsLog: Building Chat_ClientEditor...
+[2023.02.20-07.55.01:407][853]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-07.55.01:407][853]CompilerResultsLog: Building 4 actions with 16 processes...
+[2023.02.20-07.55.01:407][853]CompilerResultsLog:   [1/4] UMG_PlayerController.cpp
+[2023.02.20-07.55.01:407][853]CompilerResultsLog:    C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Source\Chat_Client\UMG_PlayerController.cpp(8) : error C4458: 'LogIn_Widget' ?????? Ŭ???? ?????? ?????ϴ?.
+[2023.02.20-07.55.01:407][853]CompilerResultsLog:   C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Source\Chat_Client\UMG_PlayerController.h(29): note: 'AUMG_PlayerController::LogIn_Widget' ?????? ?????Ͻʽÿ?.
+[2023.02.20-07.55.01:407][853]LogMainFrame: MainFrame: Module compiling took 3.058 seconds
+[2023.02.20-07.55.01:407][853]Warning: HotReload failed, recompile failed
+[2023.02.20-07.56.16:350][762]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.56.16:355][762]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.56.17:273][857]Candidate modules for hot reload:
+[2023.02.20-07.56.17:273][857]  Chat_Client
+[2023.02.20-07.56.17:273][857]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,3851 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-07.56.17:278][857]Warning: Starting HotReload took  0.0s.
+[2023.02.20-07.56.23:514][547]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 1:56:23
+[2023.02.20-07.56.23:514][547]CompilerResultsLog: Parsing headers for Chat_ClientEditor
+[2023.02.20-07.56.23:514][547]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Chat_Client.uproject" "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\Chat_ClientEditor\Development\Chat_ClientEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kyeongnyeong.lee\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.02.20-07.56.23:514][547]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.02.20-07.56.23:514][547]CompilerResultsLog: Reflection code generated for Chat_ClientEditor in 2.9834096 seconds
+[2023.02.20-07.56.23:514][547]CompilerResultsLog: Building Chat_ClientEditor...
+[2023.02.20-07.56.23:514][547]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-07.56.23:514][547]CompilerResultsLog: Building 7 actions with 16 processes...
+[2023.02.20-07.56.23:514][547]CompilerResultsLog:   [1/7] UMG_PlayerController.cpp
+[2023.02.20-07.56.23:514][547]CompilerResultsLog:    C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Source\Chat_Client\UMG_PlayerController.cpp(8) : error C4458: 'LogIn_Widget' ?????? Ŭ???? ?????? ?????ϴ?.
+[2023.02.20-07.56.23:514][547]CompilerResultsLog:   C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Source\Chat_Client\UMG_PlayerController.h(30): note: 'AUMG_PlayerController::LogIn_Widget' ?????? ?????Ͻʽÿ?.
+[2023.02.20-07.56.23:514][547]CompilerResultsLog:   [2/7] Chat_ClientGameModeBase.cpp
+[2023.02.20-07.56.23:514][547]CompilerResultsLog:   [3/7] UMG_PlayerController.gen.cpp
+[2023.02.20-07.56.23:514][547]CompilerResultsLog:   [4/7] Chat_ClientGameModeBase.gen.cpp
+[2023.02.20-07.56.23:514][547]LogMainFrame: MainFrame: Module compiling took 6.244 seconds
+[2023.02.20-07.56.23:515][547]Warning: HotReload failed, recompile failed
+[2023.02.20-07.56.34:515][818]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.56.34:519][818]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.57.11:088][113]Candidate modules for hot reload:
+[2023.02.20-07.57.11:089][113]  Chat_Client
+[2023.02.20-07.57.11:089][113]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,8618 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-07.57.11:094][113]Warning: Starting HotReload took  0.0s.
+[2023.02.20-07.57.17:269][178]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 1:57:17
+[2023.02.20-07.57.17:269][178]CompilerResultsLog: Parsing headers for Chat_ClientEditor
+[2023.02.20-07.57.17:269][178]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Chat_Client.uproject" "C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\Chat_ClientEditor\Development\Chat_ClientEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kyeongnyeong.lee\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.02.20-07.57.17:269][178]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.02.20-07.57.17:269][178]CompilerResultsLog: Reflection code generated for Chat_ClientEditor in 2.8827332 seconds
+[2023.02.20-07.57.17:269][178]CompilerResultsLog: Building Chat_ClientEditor...
+[2023.02.20-07.57.17:269][178]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-07.57.17:269][178]CompilerResultsLog: Building 7 actions with 16 processes...
+[2023.02.20-07.57.17:269][178]CompilerResultsLog:   [1/7] UMG_PlayerController.cpp
+[2023.02.20-07.57.17:269][178]CompilerResultsLog:    C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Source\Chat_Client\UMG_PlayerController.cpp(8) : error C4458: 'Login_Widget' ?????? Ŭ???? ?????? ?????ϴ?.
+[2023.02.20-07.57.17:269][178]CompilerResultsLog:   C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Source\Chat_Client\UMG_PlayerController.h(30): note: 'AUMG_PlayerController::Login_Widget' ?????? ?????Ͻʽÿ?.
+[2023.02.20-07.57.17:269][178]CompilerResultsLog:   [2/7] Chat_ClientGameModeBase.cpp
+[2023.02.20-07.57.17:269][178]CompilerResultsLog:   [3/7] UMG_PlayerController.gen.cpp
+[2023.02.20-07.57.17:269][178]CompilerResultsLog:   [4/7] Chat_ClientGameModeBase.gen.cpp
+[2023.02.20-07.57.17:269][178]LogMainFrame: MainFrame: Module compiling took 6.184 seconds
+[2023.02.20-07.57.17:269][178]Warning: HotReload failed, recompile failed
+[2023.02.20-07.59.50:358][307]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.59.50:360][307]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.20-07.59.51:365][401]Candidate modules for hot reload:
+[2023.02.20-07.59.51:365][401]  Chat_Client
+[2023.02.20-07.59.51:365][401]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,2538 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-07.59.51:372][401]Warning: Starting HotReload took  0.0s.
+[2023.02.20-07.59.55:524][805]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 1:59:55
+[2023.02.20-07.59.55:524][805]CompilerResultsLog: Building Chat_ClientEditor...
+[2023.02.20-07.59.55:524][805]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-07.59.55:524][805]CompilerResultsLog: Building 4 actions with 16 processes...
+[2023.02.20-07.59.55:524][805]CompilerResultsLog:   [1/4] UMG_PlayerController.cpp
+[2023.02.20-07.59.55:524][805]CompilerResultsLog:   [2/4] UE4Editor-Chat_Client-2538.lib
+[2023.02.20-07.59.55:524][805]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-2538.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-2538.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-07.59.55:524][805]CompilerResultsLog:   [3/4] UE4Editor-Chat_Client-2538.dll
+[2023.02.20-07.59.55:524][805]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-2538.suppressed.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-2538.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-07.59.55:524][805]CompilerResultsLog:   [4/4] Chat_ClientEditor.target
+[2023.02.20-07.59.55:524][805]CompilerResultsLog: Total time in Parallel executor: 3.23 seconds
+[2023.02.20-07.59.55:524][805]CompilerResultsLog: Total execution time: 3.79 seconds
+[2023.02.20-07.59.55:524][805]LogMainFrame: MainFrame: Module compiling took 4.162 seconds
+[2023.02.20-07.59.55:538][805]LogClass: Could not find existing class UMG_PlayerController in package /Script/Chat_Client for HotReload, assuming new class
+[2023.02.20-07.59.55:538][805]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/ Game / StarterContent / Blueprints / Login_WidgetBP' is not a standard unreal filename or a long path name. Reason: 이름에 다음과 같은 글자가 들어가면 안됩니다: ' '
+[2023.02.20-07.59.55:539][805]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.02.20-07.59.55:539][805]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/ Game / StarterContent / Blueprints / Login_WidgetBP' is not a standard unreal filename or a long path name. Reason: 이름에 다음과 같은 글자가 들어가면 안됩니다: ' '
+[2023.02.20-07.59.55:539][805]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.02.20-07.59.55:539][805]LogUObjectGlobals: Warning: 'Class / Game / StarterContent / Blueprints / Login_WidgetBP. Login_WidgetBP_C' 오브젝트를 찾는 데 실패했습니다.
+[2023.02.20-07.59.55:539][805]LogLinker: Error: AddRedirectList(AddKnownMissing) failed to add redirector from / Game / StarterContent / Blueprints / Login_WidgetBP to / Game / StarterContent / Blueprints / Login_WidgetBP with invalid characters!
+[2023.02.20-07.59.55:539][805]Error: CDO Constructor (UMG_PlayerController): Failed to find / Game / StarterContent / Blueprints / Login_WidgetBP. Login_WidgetBP_C
+
+[2023.02.20-07.59.55:539][805]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2023.02.20-07.59.55:539][805]LogUObjectBase: Warning: Error: CDO Constructor (UMG_PlayerController): Failed to find / Game / StarterContent / Blueprints / Login_WidgetBP. Login_WidgetBP_C
+
+[2023.02.20-08.00.00:931][805]LogSlate: Window '메시지' being destroyed
+[2023.02.20-08.00.00:936][805]Message dialog closed, result: Ok, title: 메시지, text: 디폴트 프로퍼티 경고 및 오류:
+Error: CDO Constructor (UMG_PlayerController): Failed to find / Game / StarterContent / Blueprints / Login_WidgetBP. Login_WidgetBP_C
+
+
+[2023.02.20-08.00.00:939][805]LogHotReload: Re-instancing Chat_ClientGameModeBase after hot-reload.
+[2023.02.20-08.00.00:952][805]LogHotReload: Re-instancing UMG_PlayerController after hot-reload.
+[2023.02.20-08.00.00:964][805]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Chat_Client' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2023.02.20-08.00.00:968][805]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.02.20-08.00.01:034][805]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3826 classes and 930 folders.
+[2023.02.20-08.00.01:039][805]Display: HotReload took  9.7s.
+[2023.02.20-08.00.02:665][963]Candidate modules for hot reload:
+[2023.02.20-08.00.02:665][963]  Chat_Client
+[2023.02.20-08.00.02:665][963]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Chat_Client,1924 Chat_ClientEditor Win64 Development -Project="C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject" "C:/Users/kyeongnyeong.lee/Documents/Unreal Projects/Chat_Client/Chat_Client.uproject"  -IgnoreJunk]
+[2023.02.20-08.00.02:671][963]Warning: Starting HotReload took  0.0s.
+[2023.02.20-08.00.04:195][ 94]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 2:00:04
+[2023.02.20-08.00.04:195][ 94]CompilerResultsLog: Building Chat_ClientEditor...
+[2023.02.20-08.00.04:195][ 94]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-08.00.04:195][ 94]CompilerResultsLog: Building 3 actions with 16 processes...
+[2023.02.20-08.00.04:195][ 94]CompilerResultsLog:   [1/3] UE4Editor-Chat_Client-1924.lib
+[2023.02.20-08.00.04:195][ 94]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-1924.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-1924.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-08.00.04:195][ 94]CompilerResultsLog:   [2/3] UE4Editor-Chat_Client-1924.dll
+[2023.02.20-08.00.04:195][ 94]CompilerResultsLog:      C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-1924.suppressed.lib ???̺귯?? ?? C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-1924.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-08.00.04:195][ 94]CompilerResultsLog:   [3/3] Chat_ClientEditor.target
+[2023.02.20-08.00.04:195][ 94]CompilerResultsLog: Total time in Parallel executor: 0.88 seconds
+[2023.02.20-08.00.04:195][ 94]CompilerResultsLog: Total execution time: 1.44 seconds
+[2023.02.20-08.00.04:195][ 94]LogMainFrame: MainFrame: Module compiling took 1.534 seconds
+[2023.02.20-08.00.04:211][ 94]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.02.20-08.00.04:211][ 94]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)

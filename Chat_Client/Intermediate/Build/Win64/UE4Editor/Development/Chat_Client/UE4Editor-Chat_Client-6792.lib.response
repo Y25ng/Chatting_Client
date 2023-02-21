@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Chat_Client-6792.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\Chat_ClientEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\Chat_Client.cpp.obj"
+"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\Chat_ClientGameModeBase.cpp.obj"
+"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\Lobby_UserWidget.cpp.obj"
+"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\LogIn_UserWidget.cpp.obj"
+"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UMG_PlayerController.cpp.obj"
+"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\Chat_Client.init.gen.cpp.obj"
+"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\Chat_ClientGameModeBase.gen.cpp.obj"
+"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\Lobby_UserWidget.gen.cpp.obj"
+"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\LogIn_UserWidget.gen.cpp.obj"
+"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UMG_PlayerController.gen.cpp.obj"
+"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\Default.rc2.res"
+/OUT:"C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\UE4Editor-Chat_Client-6792.lib"
