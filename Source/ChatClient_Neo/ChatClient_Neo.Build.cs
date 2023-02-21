@@ -2,13 +2,13 @@
 
 using UnrealBuildTool;
 
-public class Chat_Client : ModuleRules
+public class ChatClient_Neo : ModuleRules
 {
-	public Chat_Client(ReadOnlyTargetRules Target) : base(Target)
+	public ChatClient_Neo(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "UMG" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

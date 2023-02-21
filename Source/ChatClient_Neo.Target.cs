@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class Chat_ClientTarget : TargetRules
+public class ChatClient_NeoTarget : TargetRules
 {
-	public Chat_ClientTarget( TargetInfo Target) : base(Target)
+	public ChatClient_NeoTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "Chat_Client" } );
+		ExtraModuleNames.AddRange( new string[] { "ChatClient_Neo" } );
 	}
 }

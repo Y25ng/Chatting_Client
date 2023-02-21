@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class Chat_ClientEditorTarget : TargetRules
+public class ChatClient_NeoEditorTarget : TargetRules
 {
-	public Chat_ClientEditorTarget( TargetInfo Target) : base(Target)
+	public ChatClient_NeoEditorTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "Chat_Client" } );
+		ExtraModuleNames.AddRange( new string[] { "ChatClient_Neo" } );
 	}
 }

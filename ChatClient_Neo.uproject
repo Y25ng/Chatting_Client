@@ -5,12 +5,12 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "Chat_Client",
+			"Name": "ChatClient_Neo",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
-				"Engine",
-				"UMG"
+				"UMG",
+				"Engine"
 			]
 		}
 	]

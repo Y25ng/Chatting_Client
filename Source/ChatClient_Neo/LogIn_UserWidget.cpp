@@ -3,6 +3,14 @@
 
 #include "LogIn_UserWidget.h"
 
+#include "GameFramework/PlayerController.h"
+#include "Runtime/UMG/Public/Components/EditableTextBox.h"
+#include "Runtime/UMG/Public/Components/Button.h"
+
+#include "UMG_PlayerController.h"
+#include "UserInfo.h"
+
+
 void ULogIn_UserWidget::NativeConstruct()
 {
 	if (Btn_LogIn != nullptr)
@@ -35,6 +43,7 @@ void ULogIn_UserWidget::Btn_LogIn_Func()
 					UserInfo_temp->SetUserID(tempUserID);
 					RemoveFromViewport();
 					PlayerController_temp->AddToViewPort_Lobby();
+
 				}
 
 			}

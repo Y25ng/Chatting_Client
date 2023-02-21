@@ -7,12 +7,12 @@
 #include "UserInfo.generated.h"
 
 UCLASS()
-class CHAT_CLIENT_API AUserInfo : public AActor
+class CHATCLIENT_NEO_API AUserInfo : public AActor
 {
 
 	GENERATED_BODY()
-	
-public:	
+
+public:
 
 	// Sets default values for this actor's properties
 	AUserInfo();

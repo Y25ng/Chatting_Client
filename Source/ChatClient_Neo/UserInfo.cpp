@@ -13,7 +13,7 @@ AUserInfo::AUserInfo()
 void AUserInfo::BeginPlay()
 {
 	Super::BeginPlay();
-	
+
 }
 
 FString AUserInfo::GetUserID()
