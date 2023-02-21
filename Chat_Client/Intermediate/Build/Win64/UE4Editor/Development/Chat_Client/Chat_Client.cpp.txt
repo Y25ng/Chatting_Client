@@ -1,2 +1,0 @@
-C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Intermediate\Build\Win64\UE4Editor\Development\Chat_Client\Definitions.Chat_Client.h
-C:\Users\kyeongnyeong.lee\Documents\Unreal Projects\Chat_Client\Source\Chat_Client\Chat_Client.h
