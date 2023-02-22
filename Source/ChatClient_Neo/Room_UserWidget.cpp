@@ -1,12 +1,12 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "LogIn_UserWidget.h"
+#include "Room_UserWidget.h"
 
 #include "GameFramework/PlayerController.h"
 #include "Runtime/UMG/Public/Components/EditableTextBox.h"
 #include "Runtime/UMG/Public/Components/Button.h"
-#include "Components/TextBlock.h"
+#include "Components/ScrollBox.h"
 #include <string.h>
 #include <string>
 
@@ -15,33 +15,37 @@
 #include "ClientSocket.h"
 
 
-void ULogIn_UserWidget::NativeConstruct()
+void URoom_UserWidget::NativeConstruct()
 {
-	if (Btn_LogIn != nullptr)
+	
+	if (Btn_Input != nullptr)
 	{
-		Btn_LogIn->OnClicked.AddDynamic(this, &ULogIn_UserWidget::Btn_LogIn_Func);
+		Btn_Input->OnClicked.AddDynamic(this, &URoom_UserWidget::Btn_Input_Func);
 	}
+
+	if (Btn_Close != nullptr)
+	{
+		Btn_Close->OnClicked.AddDynamic(this, &URoom_UserWidget::Btn_Close_Func);
+	}
+
 }
 
-void ULogIn_UserWidget::Btn_LogIn_Func()
+
+void URoom_UserWidget::Btn_Input_Func()
 {
 
-	FString tempUserID = (EditableTextBox_LogIn->GetText()).ToString();
-	FString tempSendCommand = TEXT("LOGIN ") + tempUserID;
-	FString recvStr = "";
-
-	bool bCanCreateID = true;
+	FString tempUserMsg = (EditableTextBox_Input->GetText()).ToString();
+	FString recvStr;
 
 	AUMG_PlayerController* PlayerController_temp = Cast<AUMG_PlayerController>(PlayerController_obj);
 
 	if (PlayerController_temp)
 	{
-
 		ClientSocket* ClientSocketTemp = PlayerController_temp->GetClientSocket();
 
 		if (ClientSocketTemp)
 		{
-			if (ClientSocketTemp->Send(tempSendCommand))
+			if (ClientSocketTemp->Send(tempUserMsg))
 			{
 				while (true)
 				{
@@ -74,49 +78,21 @@ void ULogIn_UserWidget::Btn_LogIn_Func()
 		}
 
 	}
-	else
-	{
-		return;
-	}
-
-	if ( recvStr != L"** 아이디를 이미 사용중입니다.다른 아이디를 사용해주세요.\n\r")
-	{
-		if (PlayerController_obj)
-		{
-			AUserInfo* UserInfo_temp = PlayerController_temp->GetUserInfo();
-
-			if (UserInfo_temp)
-			{
-				UserInfo_temp->SetUserID(tempUserID);
-				RemoveFromViewport();
-				PlayerController_temp->AddToViewPort_Lobby();
-
-			}
-			else
-			{
-
-			}
-
-		}
-		else
-		{
-			return;
-		}
-	}
-	else
-	{
-		Text_Guide->SetText(FText::FromString (*FString(recvStr)));
-		return;
-	}
-
 }
 
-APlayerController* ULogIn_UserWidget::GetPlayerController()
+void URoom_UserWidget::Btn_Close_Func()
+{
+	RemoveFromViewport();
+}
+
+APlayerController* URoom_UserWidget::GetPlayerController()
 {
 	return PlayerController_obj;
 }
 
-void ULogIn_UserWidget::SetPlayerController(APlayerController* value)
+void URoom_UserWidget::SetPlayerController(APlayerController* value)
 {
 	PlayerController_obj = value;
 }
+
+

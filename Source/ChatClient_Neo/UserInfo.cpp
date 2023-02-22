@@ -16,12 +16,12 @@ void AUserInfo::BeginPlay()
 
 }
 
-FString AUserInfo::GetUserID()
+const FString& AUserInfo::GetUserID()
 {
 	return UserID;
 }
 
-void AUserInfo::SetUserID(FString value)
+void AUserInfo::SetUserID(FString& value)
 {
 	UserID = value;
 }

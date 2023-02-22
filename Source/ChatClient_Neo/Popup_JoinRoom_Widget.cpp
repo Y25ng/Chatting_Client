@@ -9,6 +9,8 @@
 #include "Runtime/UMG/Public/Components/Button.h"
 #include "Runtime/UMG/Public/Components/EditableTextBox.h"
 
+#include "ClientSocket.h"
+
 void UPopup_JoinRoom_Widget::NativeConstruct()
 {
 	if (Btn_CreateRoom != nullptr)
@@ -39,8 +41,45 @@ void UPopup_JoinRoom_Widget::SetPlayerController(APlayerController* value)
 void UPopup_JoinRoom_Widget::Btn_CreateRoom_Func()
 {
 
-	FString tempInputNum = (EditableTextBox_Num->GetText()).ToString();
+	FString tempInputRoomNum = (EditableTextBox_Num->GetText()).ToString();
+	FString tempSendCommand = TEXT("J ") + tempInputRoomNum;
 
+	bool bExsistRoom = true;
+
+	AUMG_PlayerController* PlayerController_temp = Cast<AUMG_PlayerController>(PlayerController_obj);
+
+	if (PlayerController_temp)
+	{
+
+		ClientSocket* ClientSocketTemp = PlayerController_temp->GetClientSocket();
+
+		if (ClientSocketTemp)
+		{
+
+			bExsistRoom = ClientSocketTemp->Send(tempSendCommand);
+
+			if (ClientSocketTemp->ReceivePacket())
+			{
+
+				FString GetMsg = ClientSocketTemp->GetRecvMsg();
+
+			}
+
+		}
+		else
+		{
+
+			return;
+
+		}
+
+	}
+	else
+	{
+
+		return;
+
+	}
 
 }
 

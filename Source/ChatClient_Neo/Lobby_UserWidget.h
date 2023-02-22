@@ -44,6 +44,9 @@ public:
 	UFUNCTION()
 		void Btn_Letter_Func();
 
+	UFUNCTION()
+		void Btn_Close_Func();
+
 private:
 
 	APlayerController* PlayerController_obj = nullptr;
@@ -68,5 +71,8 @@ private:
 
 	UPROPERTY(meta = (BindWidget))
 		UButton* Btn_Letter = nullptr;
+
+	UPROPERTY(meta = (BindWidget))
+		UButton* Btn_Close = nullptr;
 
 };

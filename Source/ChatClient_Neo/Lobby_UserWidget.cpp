@@ -8,6 +8,7 @@
 #include "Runtime/UMG/Public/Components/Button.h"
 
 #include "UMG_PlayerController.h"
+#include "ClientSocket.h"
 
 #include "UserInfo.h"
 
@@ -48,6 +49,11 @@ void ULobby_UserWidget::NativeConstruct()
 		Btn_Letter->OnClicked.AddDynamic(this, &ULobby_UserWidget::Btn_Letter_Func);
 	}
 
+	if (Btn_Close != nullptr)
+	{
+		Btn_Close->OnClicked.AddDynamic(this, &ULobby_UserWidget::Btn_Close_Func);
+	}
+
 }
 
 APlayerController* ULobby_UserWidget::GetPlayerController()
@@ -62,12 +68,26 @@ void ULobby_UserWidget::SetPlayerController(APlayerController* value)
 
 void ULobby_UserWidget::Btn_RoomList_Func()
 {
+	AUMG_PlayerController* PlayerController_objTemp = Cast<AUMG_PlayerController>(PlayerController_obj);
 
+	if (PlayerController_objTemp)
+	{
+
+		PlayerController_objTemp->AddToViewPort_Popup_RoomList();
+
+	}
 }
 
 void ULobby_UserWidget::Btn_UserList_Func()
 {
+	AUMG_PlayerController* PlayerController_objTemp = Cast<AUMG_PlayerController>(PlayerController_obj);
 
+	if (PlayerController_objTemp)
+	{
+
+		PlayerController_objTemp->AddToViewPort_Popup_UserList();
+
+	}
 }
 
 void ULobby_UserWidget::Btn_RoomInfo_Func()
@@ -128,6 +148,33 @@ void ULobby_UserWidget::Btn_JoinRoom_Func()
 
 void ULobby_UserWidget::Btn_Letter_Func()
 {
+	AUMG_PlayerController* PlayerController_objTemp = Cast<AUMG_PlayerController>(PlayerController_obj);
 
+	if (PlayerController_objTemp)
+	{
+
+		PlayerController_objTemp->AddToViewPort_Popup_Letter();
+
+	}
+
+}
+
+void ULobby_UserWidget::Btn_Close_Func()
+{
+
+	AUMG_PlayerController* PlayerController_objTemp = Cast<AUMG_PlayerController>(PlayerController_obj);
+
+	if (PlayerController_objTemp)
+	{
+		ClientSocket* ClientSocketTemp = PlayerController_objTemp->GetClientSocket();
+		
+		if (ClientSocketTemp)
+		{
+			ClientSocketTemp->Send(TEXT("X"));
+		}
+		
+		RemoveFromViewport();
+
+	}
 
 }

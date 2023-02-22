@@ -17,8 +17,8 @@ public:
 	// Sets default values for this actor's properties
 	AUserInfo();
 
-	FString GetUserID();
-	void SetUserID(FString value);
+	const FString& GetUserID();
+	void SetUserID(FString& value);
 
 protected:
 

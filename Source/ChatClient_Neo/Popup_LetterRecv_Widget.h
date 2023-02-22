@@ -4,49 +4,43 @@
 
 #include "CoreMinimal.h"
 #include "Blueprint/UserWidget.h"
-#include "LogIn_UserWidget.generated.h"
+#include "Popup_LetterRecv_Widget.generated.h"
 
 class APlayerController;
 class UButton;
-class UEditableTextBox;
-class UTextBlock;
-
+class UScrollBox;
 /**
- *
+ * 
  */
 UCLASS()
-class CHATCLIENT_NEO_API ULogIn_UserWidget : public UUserWidget
+class CHATCLIENT_NEO_API UPopup_LetterRecv_Widget : public UUserWidget
 {
 	GENERATED_BODY()
 
-
 private:
 
-	// 로그인 버튼
 	UPROPERTY(meta = (BindWidget))
-		UButton* Btn_LogIn = nullptr;
-
-	// 로그인 입력창
-	UPROPERTY(meta = (BindWidget))
-		UEditableTextBox* EditableTextBox_LogIn = nullptr;
+		UButton* Btn_Close = nullptr;
 
 	UPROPERTY(meta = (BindWidget))
-		UTextBlock* Text_Guide;
-
-
+		UScrollBox* ScrollBox_letter = nullptr;
 
 	APlayerController* PlayerController_obj = nullptr;
 
-
+	bool bOpen = false;
+	
 public:
 
 	void NativeConstruct() override;
 
 	UFUNCTION()
-		void Btn_LogIn_Func();
+		void Btn_Close_Func();
+
+	void Letter_Recv_Func();
 
 	APlayerController* GetPlayerController();
 	void SetPlayerController(APlayerController* value);
 
-
+	bool GetbOpen();
+	void SetbOpen(bool value);
 };

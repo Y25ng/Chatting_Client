@@ -6,6 +6,7 @@
 #include "GameFramework/PlayerController.h"
 #include "UMG_PlayerController.generated.h"
 
+class ClientSocket;
 class AUserInfo;
 class UUserWidget;
 
@@ -23,6 +24,9 @@ private:
 	TSubclassOf<class UUserWidget>Lobby_WidgetBPClass;
 	UUserWidget* Lobby_Widget;
 
+	TSubclassOf<class UUserWidget>Room_WidgetBPClass;
+	UUserWidget* Room_Widget;
+
 	TSubclassOf<class UUserWidget>Popup_CreateRoom_WidgetBPClass;
 	UUserWidget* Popup_CreateRoom_Widget;
 
@@ -35,7 +39,20 @@ private:
 	TSubclassOf<class UUserWidget>Popup_RoomInfo_WidgetBPClass;
 	UUserWidget* Popup_RoomInfo_Widget;
 
+	TSubclassOf<class UUserWidget>Popup_RoomList_WidgetBPClass;
+	UUserWidget* Popup_RoomList_Widget;
+
+	TSubclassOf<class UUserWidget>Popup_UserList_WidgetBPClass;
+	UUserWidget* Popup_UserList_Widget;
+
+	TSubclassOf<class UUserWidget>Popup_Letter_WidgetBPClass;
+	UUserWidget* Popup_Letter_Widget;
+
+	TSubclassOf<class UUserWidget>Popup_LetterRecv_WidgetBPClass;
+	UUserWidget* Popup_LetterRecv_Widget;
+
 	AUserInfo* UserInfo_obj;
+	ClientSocket* ClientSocket_Ptr;
 
 public:
 
@@ -44,11 +61,20 @@ public:
 	virtual void BeginPlay() override;
 
 	AUserInfo* GetUserInfo();
+	ClientSocket* GetClientSocket();
 
+	void AddToViewPort_Login();
 	void AddToViewPort_Lobby();
+	void AddToViewPort_Room();
 	void AddToViewPort_Popup_CreateRoom();
 	void AddToViewPort_Popup_JoinRoom();
 	void AddToViewPort_Popup_UserInfo();
+	void AddToViewPort_Popup_UserList();
 	void AddToViewPort_Popup_RoomInfo();
+	void AddToViewPort_Popup_RoomList();
+	void AddToViewPort_Popup_Letter();
+	void AddToViewPort_Popup_LetterRecv();
+
+	virtual void Tick(float DeltaTime) override;
 
 };

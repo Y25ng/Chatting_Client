@@ -4,12 +4,22 @@
 
 #include "CoreMinimal.h"
 
+enum eConnectServer
+{
+
+	MAX_BUFFERSIZE = 512,
+
+};
 
 class FSocket;
 
-
 class CHATCLIENT_NEO_API ClientSocket
 {
+
+private:
+
+	FString RecvMsg;
+
 
 public:
 
@@ -17,5 +27,11 @@ public:
 
 	ClientSocket();
 	~ClientSocket();
+
+	void ConnectServer();
+	bool Send(const FString& packet);
+	bool ReceivePacket();
+
+	FString& GetRecvMsg();
 
 };

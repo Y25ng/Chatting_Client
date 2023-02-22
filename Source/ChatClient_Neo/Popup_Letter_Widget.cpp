@@ -1,60 +1,58 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "Popup_RoomInfo_Widget.h"
-
-#include "UMG_PlayerController.h"
+#include "Popup_Letter_Widget.h"
 
 #include "GameFramework/PlayerController.h"
-#include "Runtime/UMG/Public/Components/Button.h"
 #include "Runtime/UMG/Public/Components/EditableTextBox.h"
-#include "Components/ScrollBox.h"
-#include "Components/TextBlock.h"
+#include "Runtime/UMG/Public/Components/Button.h"
+#include <string.h>
+#include <string>
 
+#include "UMG_PlayerController.h"
+#include "UserInfo.h"
 #include "ClientSocket.h"
 
-void UPopup_RoomInfo_Widget::NativeConstruct()
+void UPopup_Letter_Widget::NativeConstruct()
 {
-	if (Btn_OK != nullptr)
+	if (Btn_Send != nullptr)
 	{
-		Btn_OK->OnClicked.AddDynamic(this, &UPopup_RoomInfo_Widget::Btn_RoomInfo_Func);
+		Btn_Send->OnClicked.AddDynamic(this, &UPopup_Letter_Widget::Btn_Send_Func);
 	}
 
 	if (Btn_Close != nullptr)
 	{
-		Btn_Close->OnClicked.AddDynamic(this, &UPopup_RoomInfo_Widget::Btn_Close_Func);
+		Btn_Close->OnClicked.AddDynamic(this, &UPopup_Letter_Widget::Btn_Close_Func);
 	}
-
 }
 
-APlayerController* UPopup_RoomInfo_Widget::GetPlayerController()
+APlayerController* UPopup_Letter_Widget::GetPlayerController()
 {
 
 	return PlayerController_obj;
 
 }
 
-void UPopup_RoomInfo_Widget::SetPlayerController(APlayerController* value)
+void UPopup_Letter_Widget::SetPlayerController(APlayerController* value)
 {
 
 	PlayerController_obj = value;
 
 }
 
-void UPopup_RoomInfo_Widget::Btn_RoomInfo_Func()
+
+void UPopup_Letter_Widget::Btn_Send_Func()
 {
 
-	FString tempInputRoomNum = (EditableTextBox_RoomNum->GetText()).ToString();
-	FString strST = "ST ";
-	FString tempSendCommand = strST + tempInputRoomNum;
+	FString tempInputID = (EditableTextBox_ID->GetText()).ToString();
+	FString tempInputMsg = (EditableTextBox_Msg->GetText()).ToString();
+	FString tempSendCommand = TEXT("TO ") + tempInputID + TEXT(" ") + tempInputMsg;
 
-	bool bExsistRoom = true;
 
 	AUMG_PlayerController* PlayerController_temp = Cast<AUMG_PlayerController>(PlayerController_obj);
 
 	if (PlayerController_temp)
 	{
-
 		ClientSocket* ClientSocketTemp = PlayerController_temp->GetClientSocket();
 
 		if (ClientSocketTemp)
@@ -70,7 +68,7 @@ void UPopup_RoomInfo_Widget::Btn_RoomInfo_Func()
 			{
 				while (true)
 				{
-					
+
 					FString recvStrTemp2 = "1";
 
 					if (ClientSocketTemp->ReceivePacket())
@@ -86,13 +84,6 @@ void UPopup_RoomInfo_Widget::Btn_RoomInfo_Func()
 				}
 
 				FString recvStr = ClientSocketTemp->GetRecvMsg();
-
-				UTextBlock* TextBlockTemp = Cast< UTextBlock>(ScrollBox_Text->GetChildAt(0));
-
-				if (TextBlockTemp)
-				{
-					TextBlockTemp->SetText(FText::FromString(recvStr));
-				}		
 
 			}
 
@@ -115,7 +106,7 @@ void UPopup_RoomInfo_Widget::Btn_RoomInfo_Func()
 
 }
 
-void UPopup_RoomInfo_Widget::Btn_Close_Func()
+void UPopup_Letter_Widget::Btn_Close_Func()
 {
 
 	RemoveFromViewport();

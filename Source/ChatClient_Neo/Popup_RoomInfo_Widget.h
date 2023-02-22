@@ -9,6 +9,7 @@
 class APlayerController;
 class UButton;
 class UEditableTextBox;
+class UScrollBox;
 
 UCLASS()
 class CHATCLIENT_NEO_API UPopup_RoomInfo_Widget : public UUserWidget
@@ -28,6 +29,9 @@ private:
 
 	UPROPERTY(meta = (BindWidget))
 		UButton* Btn_Close = nullptr;
+
+	UPROPERTY(meta = (BindWidget))
+		UScrollBox* ScrollBox_Text = nullptr;
 
 public:
 

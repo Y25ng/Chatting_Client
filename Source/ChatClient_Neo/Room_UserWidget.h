@@ -4,48 +4,50 @@
 
 #include "CoreMinimal.h"
 #include "Blueprint/UserWidget.h"
-#include "Popup_UserInfo_Widget.generated.h"
+#include "Room_UserWidget.generated.h"
 
-/**
- *
- */
 
 class APlayerController;
 class UButton;
 class UEditableTextBox;
 class UScrollBox;
 
+
 UCLASS()
-class CHATCLIENT_NEO_API UPopup_UserInfo_Widget : public UUserWidget
+class CHATCLIENT_NEO_API URoom_UserWidget : public UUserWidget
 {
 	GENERATED_BODY()
 
 private:
 
-	APlayerController* PlayerController_obj = nullptr;
 
 	UPROPERTY(meta = (BindWidget))
-		UButton* Btn_OK = nullptr;
-
-	UPROPERTY(meta = (BindWidget))
-		UEditableTextBox* EditableTextBox_ID = nullptr;
+		UButton* Btn_Input = nullptr;
 
 	UPROPERTY(meta = (BindWidget))
 		UButton* Btn_Close = nullptr;
 
 	UPROPERTY(meta = (BindWidget))
-		UScrollBox* ScrollBox_Text = nullptr;
+		UEditableTextBox* EditableTextBox_Input = nullptr;
+
+	UPROPERTY(meta = (BindWidget))
+		UScrollBox* ScrollBox_Msg;
+
+
+	APlayerController* PlayerController_obj = nullptr;
 
 public:
 
 	void NativeConstruct() override;
-	APlayerController* GetPlayerController();
-	void SetPlayerController(APlayerController* value);
+
 
 	UFUNCTION()
-		void Btn_UserInfo_Func();
+		void Btn_Input_Func();
 
 	UFUNCTION()
 		void Btn_Close_Func();
+
+	APlayerController* GetPlayerController();
+	void SetPlayerController(APlayerController* value);
 
 };

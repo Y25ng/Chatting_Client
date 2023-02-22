@@ -12,6 +12,7 @@
 UCLASS()
 class CHATCLIENT_NEO_API AChatClient_NeoGameModeBase : public AGameModeBase
 {
+
 	GENERATED_BODY()
-	
+
 };
