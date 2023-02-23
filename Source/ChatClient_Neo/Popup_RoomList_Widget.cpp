@@ -26,6 +26,13 @@ void UPopup_RoomList_Widget::NativeConstruct()
 		Btn_Close->OnClicked.AddDynamic(this, &UPopup_RoomList_Widget::Btn_Close_Func);
 	}
 
+	if (Btn_Renewal != nullptr)
+	{
+		Btn_Renewal->OnClicked.AddDynamic(this, &UPopup_RoomList_Widget::Btn_Renewal_Func);
+	}
+
+
+
 	Btn_RoomList_Func();
 }
 
@@ -116,5 +123,12 @@ void UPopup_RoomList_Widget::Btn_Close_Func()
 {
 
 	RemoveFromViewport();
+
+}
+
+void UPopup_RoomList_Widget::Btn_Renewal_Func()
+{
+
+	Btn_RoomList_Func();
 
 }

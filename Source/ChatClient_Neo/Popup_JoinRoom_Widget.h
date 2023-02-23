@@ -20,7 +20,7 @@ private:
 	APlayerController* PlayerController_obj = nullptr;
 
 	UPROPERTY(meta = (BindWidget))
-		UButton* Btn_CreateRoom = nullptr;
+		UButton* Btn_Join = nullptr;
 
 	UPROPERTY(meta = (BindWidget))
 		UEditableTextBox* EditableTextBox_Num = nullptr;
@@ -36,7 +36,7 @@ public:
 	void SetPlayerController(APlayerController* value);
 
 	UFUNCTION()
-		void Btn_CreateRoom_Func();
+		void Btn_Join_Func();
 
 	UFUNCTION()
 		void Btn_Close_Func();

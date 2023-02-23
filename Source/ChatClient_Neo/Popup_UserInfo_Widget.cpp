@@ -30,6 +30,11 @@ void UPopup_UserInfo_Widget::NativeConstruct()
 
 	}
 
+	if (Btn_Renewal != nullptr)
+	{
+		Btn_Renewal->OnClicked.AddDynamic(this, &UPopup_UserInfo_Widget::Btn_Renewal_Func);
+	}
+
 }
 
 APlayerController* UPopup_UserInfo_Widget::GetPlayerController()
@@ -124,5 +129,12 @@ void UPopup_UserInfo_Widget::Btn_Close_Func()
 {
 
 	RemoveFromViewport();
+
+}
+
+void UPopup_UserInfo_Widget::Btn_Renewal_Func()
+{
+
+	Btn_UserInfo_Func();
 
 }

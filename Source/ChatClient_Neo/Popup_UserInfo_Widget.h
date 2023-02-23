@@ -36,6 +36,9 @@ private:
 	UPROPERTY(meta = (BindWidget))
 		UScrollBox* ScrollBox_Text = nullptr;
 
+	UPROPERTY(meta = (BindWidget))
+		UButton* Btn_Renewal = nullptr;
+
 public:
 
 	void NativeConstruct() override;
@@ -47,5 +50,8 @@ public:
 
 	UFUNCTION()
 		void Btn_Close_Func();
+
+	UFUNCTION()
+		void Btn_Renewal_Func();
 
 };

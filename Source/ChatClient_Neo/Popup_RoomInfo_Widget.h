@@ -31,6 +31,9 @@ private:
 		UButton* Btn_Close = nullptr;
 
 	UPROPERTY(meta = (BindWidget))
+		UButton* Btn_Renewal = nullptr;
+
+	UPROPERTY(meta = (BindWidget))
 		UScrollBox* ScrollBox_Text = nullptr;
 
 public:
@@ -44,5 +47,8 @@ public:
 
 	UFUNCTION()
 		void Btn_Close_Func();
+
+	UFUNCTION()
+		void Btn_Renewal_Func();
 
 };

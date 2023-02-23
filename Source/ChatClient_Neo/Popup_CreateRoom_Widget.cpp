@@ -43,7 +43,18 @@ void UPopup_CreateRoom_Widget::SetPlayerController(APlayerController* value)
 void UPopup_CreateRoom_Widget::Btn_CreateRoom_Func()
 {
 
-	FString tempInputNum = (EditableTextBox_Num->GetText()).ToString();
+	FString tempInputNum;
+	FString tempInputTitle;
+	FString tempSendCommand;
+
+	if (EditableTextBox_Num)
+	{
+		tempInputNum = (EditableTextBox_Num->GetText()).ToString();
+	}
+	else
+	{
+		return;
+	}
 
 	int32 tempNum = FCString::Atof(*tempInputNum);
 
@@ -52,8 +63,16 @@ void UPopup_CreateRoom_Widget::Btn_CreateRoom_Func()
 		return;
 	}
 
-	FString tempInputTitle = (EditableTextBox_Title->GetText()).ToString();
-	FString tempSendCommand = TEXT("O ") + tempInputNum + TEXT(" ") + tempInputTitle;
+	if (EditableTextBox_Title)
+	{
+		tempInputTitle = (EditableTextBox_Title->GetText()).ToString();
+	}
+	else
+	{
+		return;
+	}
+
+	tempSendCommand = TEXT("O ") + tempInputNum + TEXT(" ") + tempInputTitle;
 
 	bool bExsistRoom = true;
 

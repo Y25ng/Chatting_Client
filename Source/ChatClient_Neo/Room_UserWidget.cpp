@@ -6,6 +6,7 @@
 #include "GameFramework/PlayerController.h"
 #include "Runtime/UMG/Public/Components/EditableTextBox.h"
 #include "Runtime/UMG/Public/Components/Button.h"
+#include "Components/TextBlock.h"
 #include "Components/ScrollBox.h"
 #include <string.h>
 #include <string>
@@ -45,31 +46,23 @@ void URoom_UserWidget::Btn_Input_Func()
 
 		if (ClientSocketTemp)
 		{
+
 			if (ClientSocketTemp->Send(tempUserMsg))
 			{
-				while (true)
-				{
-					FString recvStrTemp1 = "1";
-					FString recvStrTemp2 = "2";
-
-					if (ClientSocketTemp->ReceivePacket())
-					{
-						recvStrTemp1 = ClientSocketTemp->GetRecvMsg();
-					}
-
-					if (ClientSocketTemp->ReceivePacket())
-					{
-						recvStrTemp2 = ClientSocketTemp->GetRecvMsg();
-					}
-
-					if (recvStrTemp1 == recvStrTemp2)
-						break;
-					else
-						continue;
-				}
-
 				recvStr = ClientSocketTemp->GetRecvMsg();
 
+				while (recvStr != TEXT("@ ") + PlayerController_temp->GetUserInfo()->GetUserID() + TEXT("> ") + tempUserMsg + "\r\n")
+				{
+					ClientSocketTemp->ReceivePacket();
+					recvStr = ClientSocketTemp->GetRecvMsg();
+				}
+
+				recvStr = recvStr.Mid(2, recvStr.Len() - 4);
+				UTextBlock* NewTextBlock = NewObject<UTextBlock>();
+				NewTextBlock->SetText(FText::FromString(recvStr));
+				ScrollBox_Msg->AddChild(NewTextBlock);
+
+				ClientSocketTemp->Send(TEXT("\r"));
 			}
 		}
 		else
@@ -82,7 +75,29 @@ void URoom_UserWidget::Btn_Input_Func()
 
 void URoom_UserWidget::Btn_Close_Func()
 {
+	AUMG_PlayerController* PlayerController_temp = Cast<AUMG_PlayerController>(PlayerController_obj);
+	ClientSocket* ClientSocketTemp = PlayerController_temp->GetClientSocket();;
+	if (ClientSocketTemp)
+	{
+		ClientSocketTemp->Send(TEXT("X"));
+	}
+
 	RemoveFromViewport();
+}
+
+void URoom_UserWidget::AddTextOnScrollBox(FString Value)
+{
+	UTextBlock* NewTextBlock = NewObject<UTextBlock>();
+	NewTextBlock->SetText(FText::FromString(Value.Mid(0, Value.Len()-2)));
+	ScrollBox_Msg->AddChild(NewTextBlock);
+
+	AUMG_PlayerController* PlayerController_temp = Cast<AUMG_PlayerController>(PlayerController_obj);
+	ClientSocket* ClientSocketTemp = PlayerController_temp->GetClientSocket();;
+	if (ClientSocketTemp)
+	{
+		ClientSocketTemp->Send(TEXT("\r"));
+	}
+
 }
 
 APlayerController* URoom_UserWidget::GetPlayerController()
@@ -94,5 +109,7 @@ void URoom_UserWidget::SetPlayerController(APlayerController* value)
 {
 	PlayerController_obj = value;
 }
+
+
 
 

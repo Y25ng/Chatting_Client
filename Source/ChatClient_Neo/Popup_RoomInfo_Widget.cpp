@@ -25,6 +25,11 @@ void UPopup_RoomInfo_Widget::NativeConstruct()
 		Btn_Close->OnClicked.AddDynamic(this, &UPopup_RoomInfo_Widget::Btn_Close_Func);
 	}
 
+	if (Btn_Renewal != nullptr)
+	{
+		Btn_Renewal->OnClicked.AddDynamic(this, &UPopup_RoomInfo_Widget::Btn_Renewal_Func);
+	}
+
 }
 
 APlayerController* UPopup_RoomInfo_Widget::GetPlayerController()
@@ -45,6 +50,25 @@ void UPopup_RoomInfo_Widget::Btn_RoomInfo_Func()
 {
 
 	FString tempInputRoomNum = (EditableTextBox_RoomNum->GetText()).ToString();
+
+	for (int i = 0; i < tempInputRoomNum.Len(); i++)
+	{
+		int32 tempIntNum = (int)tempInputRoomNum[i] - (int)'0';
+		
+		if (tempIntNum < 0 || tempIntNum > 9)
+		{
+			UTextBlock* TextBlockTemp = Cast<UTextBlock>(ScrollBox_Text->GetChildAt(0));
+
+			if (TextBlockTemp)
+			{
+				FString GuideStr = "Enter the number";
+				TextBlockTemp->SetText(FText::FromString(GuideStr));
+			}
+
+			return;
+		}
+	}
+
 	FString strST = "ST ";
 	FString tempSendCommand = strST + tempInputRoomNum;
 
@@ -56,6 +80,9 @@ void UPopup_RoomInfo_Widget::Btn_RoomInfo_Func()
 	{
 
 		ClientSocket* ClientSocketTemp = PlayerController_temp->GetClientSocket();
+		FString tempFStr;
+
+		
 
 		if (ClientSocketTemp)
 		{
@@ -70,7 +97,8 @@ void UPopup_RoomInfo_Widget::Btn_RoomInfo_Func()
 			{
 				while (true)
 				{
-					
+
+
 					FString recvStrTemp2 = "1";
 
 					if (ClientSocketTemp->ReceivePacket())
@@ -87,12 +115,12 @@ void UPopup_RoomInfo_Widget::Btn_RoomInfo_Func()
 
 				FString recvStr = ClientSocketTemp->GetRecvMsg();
 
-				UTextBlock* TextBlockTemp = Cast< UTextBlock>(ScrollBox_Text->GetChildAt(0));
+				UTextBlock* TextBlockTemp = Cast<UTextBlock>(ScrollBox_Text->GetChildAt(0));
 
 				if (TextBlockTemp)
 				{
 					TextBlockTemp->SetText(FText::FromString(recvStr));
-				}		
+				}
 
 			}
 
@@ -103,7 +131,6 @@ void UPopup_RoomInfo_Widget::Btn_RoomInfo_Func()
 			return;
 
 		}
-
 	}
 	else
 	{
@@ -119,5 +146,12 @@ void UPopup_RoomInfo_Widget::Btn_Close_Func()
 {
 
 	RemoveFromViewport();
+
+}
+
+void UPopup_RoomInfo_Widget::Btn_Renewal_Func()
+{
+
+	Btn_RoomInfo_Func();
 
 }

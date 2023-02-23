@@ -13,9 +13,9 @@
 
 void UPopup_JoinRoom_Widget::NativeConstruct()
 {
-	if (Btn_CreateRoom != nullptr)
+	if (Btn_Join != nullptr)
 	{
-		Btn_CreateRoom->OnClicked.AddDynamic(this, &UPopup_JoinRoom_Widget::Btn_CreateRoom_Func);
+		Btn_Join->OnClicked.AddDynamic(this, &UPopup_JoinRoom_Widget::Btn_Join_Func);
 	}
 
 	if (Btn_Close != nullptr)
@@ -38,7 +38,7 @@ void UPopup_JoinRoom_Widget::SetPlayerController(APlayerController* value)
 
 }
 
-void UPopup_JoinRoom_Widget::Btn_CreateRoom_Func()
+void UPopup_JoinRoom_Widget::Btn_Join_Func()
 {
 
 	FString tempInputRoomNum = (EditableTextBox_Num->GetText()).ToString();
@@ -58,27 +58,20 @@ void UPopup_JoinRoom_Widget::Btn_CreateRoom_Func()
 
 			bExsistRoom = ClientSocketTemp->Send(tempSendCommand);
 
-			if (ClientSocketTemp->ReceivePacket())
-			{
-
-				FString GetMsg = ClientSocketTemp->GetRecvMsg();
-
-			}
-
-		}
-		else
-		{
+			PlayerController_temp->AddToViewPort_Room();
+			RemoveFromViewport();
 
 			return;
 
 		}
-
+		else
+		{
+			return;
+		}
 	}
 	else
 	{
-
 		return;
-
 	}
 
 }

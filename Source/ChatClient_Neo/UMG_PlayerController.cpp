@@ -24,6 +24,8 @@
 
 AUMG_PlayerController::AUMG_PlayerController()
 {
+	SetShowMouseCursor(true);
+
 	ClientSocket_Ptr = new ClientSocket();
 	ClientSocket_Ptr->ConnectServer();
 
@@ -164,6 +166,13 @@ void AUMG_PlayerController::Tick(float DeltaTime)
 			if (FTempStr.Len() >= 3 && FTempStr[2] == '#')
 			{
 				AddToViewPort_Popup_LetterRecv();
+			}
+			if (FTempStr.Len() >= 4 + UserInfo_obj->GetUserID().Len() && FTempStr[0] == '@' && FTempStr.Mid(2, UserInfo_obj->GetUserID().Len()) != UserInfo_obj->GetUserID())
+			{
+				if (Cast<URoom_UserWidget>(Room_Widget))
+				{
+					Cast<URoom_UserWidget>(Room_Widget)->AddTextOnScrollBox(FTempStr);
+				}
 			}
 		}
 

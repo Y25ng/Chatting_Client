@@ -48,6 +48,7 @@ public:
 		void Btn_Close_Func();
 
 	APlayerController* GetPlayerController();
+	void AddTextOnScrollBox(FString Value);
 	void SetPlayerController(APlayerController* value);
 
 };
